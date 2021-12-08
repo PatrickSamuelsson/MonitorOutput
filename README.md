@@ -23,3 +23,5 @@ To share Monitor output with others:
 
 Github will start a webserver. GUI will be available at `USER.github.io/MonitorOutput/exp/EXPNAME/`
 
+See [here](https://roelstappers.github.io/MonitorOutput/exp/iOBS_new_cy43_01_05aug2019_3hfc_export/) for an example from [this](https://github.com/roelstappers/MonitorOutput) fork
+
