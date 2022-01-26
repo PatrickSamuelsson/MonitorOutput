@@ -1,0 +1,26 @@
+ <pre>
+
+ Contingency table for Visibility (m)
+ Selection: SwedenOpenLandWind     56 stations
+Period: 20210716-20210720
+Used {00,12} + 25 26 ... 36
+ Limits    1000.00000       5000.00000       10000.0000       20000.0000    
+ Each class is data <= limit, the very last > last limit
+ Total number of values        5750
+                                     OBSERVATION
+                                      0       12        9       11       16 |        48
+                                      2       17       37       34       56 |       146
+                       newsurf        0       10       25       40      103 |       178
+                                      1       11       22       90      595 |       719
+                                      0       13       27      268     4351 |      4659
+
+                    SUM               3       63      120      443     5121 |      5750
+                                     OBSERVATION
+                                      0       14       13       15       22 |        64
+                                      0       13       36       39       66 |       154
+                       oldsurf        2       10       25       24       50 |       111
+                                      1       11       18       73      465 |       568
+                                      0       15       28      292     4518 |      4853
+
+                    SUM               3       63      120      443     5121 |      5750
+
