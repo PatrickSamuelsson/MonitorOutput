@@ -1,7 +1,7 @@
 set terminal png
 set output "fc_00000000_00000000_WestNorway_ALL_VI_0_thresholds.1.png"
 set datafile missing "-99"
-set title "Frequency  for Visibility (m)\n   Selection: WestNorway     10 stations\n  Period: 20210716-20210720\n  Used {00,12} + 25 26 ... 36" 
+set title "Frequency  for Visibility (m)\n   Selection: WestNorway     10 stations\n  Period: 20210716-20210724\n  Used {00,12} + 25 26 ... 36" 
 
 set style line 1 lt 0 lw 1 pt 5 # use black thin lines
 set style line 2 lt 8 lw 1 pt 1 # use black thicker lines

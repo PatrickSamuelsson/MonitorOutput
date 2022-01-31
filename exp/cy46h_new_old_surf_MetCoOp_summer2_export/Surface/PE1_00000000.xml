@@ -4,53 +4,53 @@
 <TAG>ALL</TAG>
 <VAR>1h Precipitation</VAR>
 <UNIT>mm/1h</UNIT>
-<PERIOD>20210716-20210720</PERIOD>
+<PERIOD>20210716-20210724</PERIOD>
  <STATION>
- <MEAN_OBS>   1.66666682E-03 </MEAN_OBS>
- <STDV_OBS>   5.02171984E-04 </STDV_OBS>
+ <MEAN_OBS>   1.76744200E-02 </MEAN_OBS>
+ <STDV_OBS>  0.109976068     </STDV_OBS>
  <EXP>
  <ID>        7010 </ID>
  <NAME>newsurf</NAME>
- <NUM>         120 </NUM>
- <MEAN>   6.51042501E-05 </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>   1.82128362E-02 </BIAS>
- <RMSE>  -1.91144887E-02 </RMSE>
- <CORR> -0.432414055     </CORR>
+ <NUM>         215 </NUM>
+ <MEAN>   1.00926151E-02 </MEAN>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>  0.154478341     </BIAS>
+ <RMSE>  -1.18985064E-02 </RMSE>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        7010 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         120 </NUM>
+ <NUM>         215 </NUM>
  <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
- <BIAS>   1.81940291E-02 </BIAS>
- <RMSE>  -1.19343987E-02 </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <BIAS>  0.157630339     </BIAS>
+ <RMSE>  -1.15649495E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
  <MEAN_OBS>   0.00000000     </MEAN_OBS>
- <STDV_OBS>   1.15132262E-03 </STDV_OBS>
+ <STDV_OBS>   8.54934042E-04 </STDV_OBS>
  <EXP>
  <ID>        2490 </ID>
  <NAME>newsurf</NAME>
- <NUM>         117 </NUM>
- <MEAN>   1.50241045E-04 </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>   4.37228184E-04 </BIAS>
+ <NUM>         213 </NUM>
+ <MEAN>   8.25267707E-05 </MEAN>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>   3.25748173E-04 </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2490 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         117 </NUM>
- <MEAN>   4.59163468E-41 </MEAN>
+ <NUM>         213 </NUM>
+ <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
- <BIAS>   1.14639197E-03 </BIAS>
+ <BIAS>   8.52924772E-04 </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
@@ -59,22 +59,22 @@
  <EXP>
  <ID>        2498 </ID>
  <NAME>newsurf</NAME>
- <NUM>         109 </NUM>
+ <NUM>         190 </NUM>
  <MEAN>   0.00000000     </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>   4.25672866E-02 </BIAS>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>   3.23499814E-02 </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2498 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         109 </NUM>
- <MEAN>   4.59163468E-41 </MEAN>
+ <NUM>         190 </NUM>
+ <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
  <BIAS>   0.00000000     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
@@ -83,22 +83,22 @@
  <EXP>
  <ID>        2500 </ID>
  <NAME>newsurf</NAME>
- <NUM>          99 </NUM>
+ <NUM>         179 </NUM>
  <MEAN>   0.00000000     </MEAN>
- <STDV>   1.73709203E+18 </STDV>
+ <STDV>  -1.65206421E-31 </STDV>
  <BIAS>   0.00000000     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2500 </ID>
  <NAME>oldsurf</NAME>
- <NUM>          99 </NUM>
- <MEAN>   4.59163468E-41 </MEAN>
+ <NUM>         179 </NUM>
+ <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
  <BIAS>   0.00000000     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
@@ -107,22 +107,22 @@
  <EXP>
  <ID>        2505 </ID>
  <NAME>newsurf</NAME>
- <NUM>         113 </NUM>
+ <NUM>         204 </NUM>
  <MEAN>   0.00000000     </MEAN>
- <STDV>   1.73709203E+18 </STDV>
+ <STDV>  -1.65206421E-31 </STDV>
  <BIAS>   0.00000000     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2505 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         113 </NUM>
- <MEAN>   4.59163468E-41 </MEAN>
+ <NUM>         204 </NUM>
+ <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
  <BIAS>   0.00000000     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
@@ -131,22 +131,22 @@
  <EXP>
  <ID>        2513 </ID>
  <NAME>newsurf</NAME>
- <NUM>         117 </NUM>
+ <NUM>         211 </NUM>
  <MEAN>   0.00000000     </MEAN>
- <STDV>   1.73709203E+18 </STDV>
+ <STDV>  -1.65206421E-31 </STDV>
  <BIAS>   0.00000000     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2513 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         117 </NUM>
- <MEAN>   4.59163468E-41 </MEAN>
+ <NUM>         211 </NUM>
+ <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
  <BIAS>   0.00000000     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
@@ -155,22 +155,22 @@
  <EXP>
  <ID>        2516 </ID>
  <NAME>newsurf</NAME>
- <NUM>         118 </NUM>
+ <NUM>         214 </NUM>
  <MEAN>   0.00000000     </MEAN>
- <STDV>   1.73709203E+18 </STDV>
+ <STDV>  -1.65206421E-31 </STDV>
  <BIAS>   0.00000000     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2516 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         118 </NUM>
- <MEAN>   4.59163468E-41 </MEAN>
+ <NUM>         214 </NUM>
+ <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
  <BIAS>   0.00000000     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
@@ -179,70 +179,70 @@
  <EXP>
  <ID>        2520 </ID>
  <NAME>newsurf</NAME>
- <NUM>         120 </NUM>
+ <NUM>         216 </NUM>
  <MEAN>   0.00000000     </MEAN>
- <STDV>   1.73709203E+18 </STDV>
+ <STDV>  -1.65206421E-31 </STDV>
  <BIAS>   0.00000000     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2520 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         120 </NUM>
- <MEAN>   4.59163468E-41 </MEAN>
- <STDV>   0.00000000     </STDV>
- <BIAS>   0.00000000     </BIAS>
- <RMSE>   0.00000000     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
- </EXP>
- </STATION>
- <STATION>
- <MEAN_OBS>   0.00000000     </MEAN_OBS>
- <STDV_OBS>   2.77088638E-02 </STDV_OBS>
- <EXP>
- <ID>        2536 </ID>
- <NAME>newsurf</NAME>
- <NUM>         117 </NUM>
- <MEAN>   3.60576855E-03 </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>   1.66063546E-03 </BIAS>
- <RMSE>   0.00000000     </RMSE>
- <CORR> -0.432414055     </CORR>
- </EXP>
- <EXP>
- <ID>        2536 </ID>
- <NAME>oldsurf</NAME>
- <NUM>         117 </NUM>
- <MEAN>   4.59163468E-41 </MEAN>
- <STDV>   0.00000000     </STDV>
- <BIAS>   2.75901966E-02 </BIAS>
- <RMSE>   0.00000000     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
- </EXP>
- </STATION>
- <STATION>
- <MEAN_OBS>   0.00000000     </MEAN_OBS>
- <STDV_OBS>   0.00000000     </STDV_OBS>
- <EXP>
- <ID>        2539 </ID>
- <NAME>newsurf</NAME>
- <NUM>         118 </NUM>
+ <NUM>         216 </NUM>
  <MEAN>   0.00000000     </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>   5.04222175E-04 </BIAS>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   0.00000000     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   2.05752421E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2536 </ID>
+ <NAME>newsurf</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>   1.98063347E-03 </MEAN>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>   1.52578228E-03 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -1.65105611E-31 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2536 </ID>
+ <NAME>oldsurf</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.05268878E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   4.94027417E-03 </STDV_OBS>
+ <EXP>
+ <ID>        2539 </ID>
+ <NAME>newsurf</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   3.47035908E-04 </MEAN>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>   5.44321258E-04 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2539 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         118 </NUM>
- <MEAN>   4.59163468E-41 </MEAN>
+ <NUM>         214 </NUM>
+ <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
- <BIAS>   0.00000000     </BIAS>
+ <BIAS>   4.92871786E-03 </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
@@ -251,46 +251,46 @@
  <EXP>
  <ID>        2540 </ID>
  <NAME>newsurf</NAME>
- <NUM>         118 </NUM>
+ <NUM>         214 </NUM>
  <MEAN>   0.00000000     </MEAN>
- <STDV>   1.73709203E+18 </STDV>
+ <STDV>  -1.65206421E-31 </STDV>
  <BIAS>   0.00000000     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2540 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         118 </NUM>
- <MEAN>   4.59163468E-41 </MEAN>
+ <NUM>         214 </NUM>
+ <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
  <BIAS>   0.00000000     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
  <MEAN_OBS>   0.00000000     </MEAN_OBS>
- <STDV_OBS>   1.41365384E-03 </STDV_OBS>
+ <STDV_OBS>   1.05045468E-03 </STDV_OBS>
  <EXP>
  <ID>        2542 </ID>
  <NAME>newsurf</NAME>
- <NUM>         117 </NUM>
- <MEAN>   2.00320530E-04 </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>   1.56455406E-03 </BIAS>
+ <NUM>         213 </NUM>
+ <MEAN>   1.10035209E-04 </MEAN>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>   1.16623542E-03 </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2542 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         117 </NUM>
- <MEAN>   4.59163468E-41 </MEAN>
+ <NUM>         213 </NUM>
+ <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
- <BIAS>   1.40759966E-03 </BIAS>
+ <BIAS>   1.04798598E-03 </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
@@ -299,22 +299,22 @@
  <EXP>
  <ID>        2544 </ID>
  <NAME>newsurf</NAME>
- <NUM>         120 </NUM>
+ <NUM>         216 </NUM>
  <MEAN>   0.00000000     </MEAN>
- <STDV>   1.73709203E+18 </STDV>
+ <STDV>  -1.65206421E-31 </STDV>
  <BIAS>   0.00000000     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2544 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         120 </NUM>
- <MEAN>   4.59163468E-41 </MEAN>
+ <NUM>         216 </NUM>
+ <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
  <BIAS>   0.00000000     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
@@ -323,22 +323,22 @@
  <EXP>
  <ID>        2545 </ID>
  <NAME>newsurf</NAME>
- <NUM>         120 </NUM>
+ <NUM>         216 </NUM>
  <MEAN>   0.00000000     </MEAN>
- <STDV>   1.73709203E+18 </STDV>
+ <STDV>  -1.65206421E-31 </STDV>
  <BIAS>   0.00000000     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2545 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         120 </NUM>
- <MEAN>   4.59163468E-41 </MEAN>
+ <NUM>         216 </NUM>
+ <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
  <BIAS>   0.00000000     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
@@ -347,22 +347,22 @@
  <EXP>
  <ID>        2546 </ID>
  <NAME>newsurf</NAME>
- <NUM>         118 </NUM>
+ <NUM>         214 </NUM>
  <MEAN>   0.00000000     </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>   4.65494720E-03 </BIAS>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>   3.46321822E-03 </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2546 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         118 </NUM>
- <MEAN>   4.59163468E-41 </MEAN>
+ <NUM>         214 </NUM>
+ <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
  <BIAS>   0.00000000     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
@@ -371,94 +371,94 @@
  <EXP>
  <ID>        2548 </ID>
  <NAME>newsurf</NAME>
- <NUM>         118 </NUM>
+ <NUM>         214 </NUM>
  <MEAN>   0.00000000     </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>   3.58067016E-04 </BIAS>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>   2.66397052E-04 </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2548 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         118 </NUM>
- <MEAN>   4.59163468E-41 </MEAN>
+ <NUM>         214 </NUM>
+ <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
  <BIAS>   0.00000000     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
  <MEAN_OBS>   0.00000000     </MEAN_OBS>
- <STDV_OBS>   9.33011174E-02 </STDV_OBS>
+ <STDV_OBS>  0.142850518     </STDV_OBS>
  <EXP>
  <ID>        2549 </ID>
  <NAME>newsurf</NAME>
- <NUM>         118 </NUM>
- <MEAN>   1.21491523E-02 </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>   8.15756386E-04 </BIAS>
+ <NUM>         214 </NUM>
+ <MEAN>   1.61682591E-02 </MEAN>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>   7.31028849E-04 </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2549 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         118 </NUM>
- <MEAN>   4.59163468E-41 </MEAN>
+ <NUM>         214 </NUM>
+ <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
- <BIAS>   9.29049328E-02 </BIAS>
+ <BIAS>  0.142516360     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
  <MEAN_OBS>   0.00000000     </MEAN_OBS>
- <STDV_OBS>   3.61128303E-04 </STDV_OBS>
+ <STDV_OBS>   2.67648429E-04 </STDV_OBS>
  <EXP>
  <ID>        2552 </ID>
  <NAME>newsurf</NAME>
- <NUM>         117 </NUM>
- <MEAN>   3.33863245E-05 </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>   3.59581725E-04 </BIAS>
+ <NUM>         213 </NUM>
+ <MEAN>   1.83389675E-05 </MEAN>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>   2.67019350E-04 </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2552 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         117 </NUM>
- <MEAN>   4.59163468E-41 </MEAN>
+ <NUM>         213 </NUM>
+ <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
- <BIAS>   3.59581725E-04 </BIAS>
+ <BIAS>   2.67019379E-04 </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
  <MEAN_OBS>   0.00000000     </MEAN_OBS>
- <STDV_OBS>   3.93568631E-03 </STDV_OBS>
+ <STDV_OBS>   2.93530663E-03 </STDV_OBS>
  <EXP>
  <ID>        2556 </ID>
  <NAME>newsurf</NAME>
- <NUM>         120 </NUM>
- <MEAN>   3.90625035E-04 </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>   3.55105876E-04 </BIAS>
+ <NUM>         216 </NUM>
+ <MEAN>   2.26055548E-04 </MEAN>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>   2.65174109E-04 </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2556 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         120 </NUM>
- <MEAN>   4.59163468E-41 </MEAN>
+ <NUM>         216 </NUM>
+ <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
- <BIAS>   3.91925359E-03 </BIAS>
+ <BIAS>   2.92850425E-03 </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
@@ -467,22 +467,22 @@
  <EXP>
  <ID>        2557 </ID>
  <NAME>newsurf</NAME>
- <NUM>         117 </NUM>
+ <NUM>         213 </NUM>
  <MEAN>   0.00000000     </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>   0.00000000     </BIAS>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>   1.48986030E-04 </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2557 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         117 </NUM>
- <MEAN>   4.59163468E-41 </MEAN>
+ <NUM>         213 </NUM>
+ <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
  <BIAS>   0.00000000     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
@@ -491,70 +491,70 @@
  <EXP>
  <ID>        2558 </ID>
  <NAME>newsurf</NAME>
- <NUM>         118 </NUM>
+ <NUM>         214 </NUM>
  <MEAN>   0.00000000     </MEAN>
- <STDV>   1.73709203E+18 </STDV>
+ <STDV>  -1.65206421E-31 </STDV>
  <BIAS>   0.00000000     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2558 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         118 </NUM>
- <MEAN>   4.59163468E-41 </MEAN>
+ <NUM>         214 </NUM>
+ <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
  <BIAS>   0.00000000     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
  <MEAN_OBS>   0.00000000     </MEAN_OBS>
- <STDV_OBS>   0.00000000     </STDV_OBS>
+ <STDV_OBS>   6.70688678E-05 </STDV_OBS>
  <EXP>
  <ID>        2559 </ID>
  <NAME>newsurf</NAME>
- <NUM>         116 </NUM>
- <MEAN>   0.00000000     </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>   0.00000000     </BIAS>
+ <NUM>         212 </NUM>
+ <MEAN>   4.60630872E-06 </MEAN>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>   1.63249060E-04 </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2559 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         116 </NUM>
- <MEAN>   4.59163468E-41 </MEAN>
+ <NUM>         212 </NUM>
+ <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
- <BIAS>   0.00000000     </BIAS>
+ <BIAS>   6.69104993E-05 </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
  <MEAN_OBS>   0.00000000     </MEAN_OBS>
- <STDV_OBS>   0.00000000     </STDV_OBS>
+ <STDV_OBS>   2.65783106E-04 </STDV_OBS>
  <EXP>
  <ID>        2561 </ID>
  <NAME>newsurf</NAME>
- <NUM>         120 </NUM>
- <MEAN>   0.00000000     </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>   0.00000000     </BIAS>
+ <NUM>         216 </NUM>
+ <MEAN>   1.80842489E-05 </MEAN>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>   2.65173992E-04 </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2561 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         120 </NUM>
- <MEAN>   4.59163468E-41 </MEAN>
+ <NUM>         216 </NUM>
+ <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
- <BIAS>   0.00000000     </BIAS>
+ <BIAS>   2.65167153E-04 </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
@@ -563,46 +563,46 @@
  <EXP>
  <ID>        2562 </ID>
  <NAME>newsurf</NAME>
- <NUM>         120 </NUM>
+ <NUM>         216 </NUM>
  <MEAN>   0.00000000     </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>   3.55105876E-04 </BIAS>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>   2.65174109E-04 </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2562 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         120 </NUM>
- <MEAN>   4.59163468E-41 </MEAN>
+ <NUM>         216 </NUM>
+ <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
  <BIAS>   0.00000000     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
  <MEAN_OBS>   0.00000000     </MEAN_OBS>
- <STDV_OBS>   1.07880298E-03 </STDV_OBS>
+ <STDV_OBS>   8.01080663E-04 </STDV_OBS>
  <EXP>
  <ID>        2563 </ID>
  <NAME>newsurf</NAME>
- <NUM>         118 </NUM>
- <MEAN>   9.93118665E-05 </MEAN>
- <STDV>   1.73709203E+18 </STDV>
+ <NUM>         214 </NUM>
+ <MEAN>   5.47607488E-05 </MEAN>
+ <STDV>  -1.65206421E-31 </STDV>
  <BIAS>   0.00000000     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2563 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         118 </NUM>
- <MEAN>   4.59163468E-41 </MEAN>
+ <NUM>         214 </NUM>
+ <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
- <BIAS>   1.07422203E-03 </BIAS>
+ <BIAS>   7.99206842E-04 </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
@@ -611,22 +611,22 @@
  <EXP>
  <ID>        2565 </ID>
  <NAME>newsurf</NAME>
- <NUM>         117 </NUM>
+ <NUM>         213 </NUM>
  <MEAN>   0.00000000     </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>   0.00000000     </BIAS>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>   1.48992214E-04 </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2565 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         117 </NUM>
- <MEAN>   4.59163468E-41 </MEAN>
+ <NUM>         213 </NUM>
+ <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
  <BIAS>   0.00000000     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
@@ -635,22 +635,22 @@
  <EXP>
  <ID>        2567 </ID>
  <NAME>newsurf</NAME>
- <NUM>         117 </NUM>
+ <NUM>         213 </NUM>
  <MEAN>   0.00000000     </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>   4.00635705E-04 </BIAS>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>   2.97972816E-04 </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2567 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         117 </NUM>
- <MEAN>   4.59163468E-41 </MEAN>
+ <NUM>         213 </NUM>
+ <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
  <BIAS>   0.00000000     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
@@ -659,214 +659,214 @@
  <EXP>
  <ID>        2574 </ID>
  <NAME>newsurf</NAME>
- <NUM>         118 </NUM>
+ <NUM>         214 </NUM>
  <MEAN>   0.00000000     </MEAN>
- <STDV>   1.73709203E+18 </STDV>
+ <STDV>  -1.65206421E-31 </STDV>
  <BIAS>   0.00000000     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2574 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         118 </NUM>
- <MEAN>   4.59163468E-41 </MEAN>
+ <NUM>         214 </NUM>
+ <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
  <BIAS>   0.00000000     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
- <MEAN_OBS>   4.31034490E-02 </MEAN_OBS>
- <STDV_OBS>   3.23541723E-02 </STDV_OBS>
+ <MEAN_OBS>   2.38095243E-02 </MEAN_OBS>
+ <STDV_OBS>   2.40554418E-02 </STDV_OBS>
  <EXP>
  <ID>        2575 </ID>
  <NAME>newsurf</NAME>
- <NUM>         116 </NUM>
- <MEAN>   3.28327063E-03 </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>  0.380403370     </BIAS>
- <RMSE>  -1.34009374E-02 </RMSE>
- <CORR> -0.432414055     </CORR>
+ <NUM>         210 </NUM>
+ <MEAN>   1.81361625E-03 </MEAN>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>  0.283530891     </BIAS>
+ <RMSE>  -7.35824509E-03 </RMSE>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2575 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         116 </NUM>
- <MEAN>   4.59163468E-41 </MEAN>
+ <NUM>         210 </NUM>
+ <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
- <BIAS>  0.381501228     </BIAS>
- <RMSE>   7.68751418E-03 </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <BIAS>  0.284231156     </BIAS>
+ <RMSE>   1.27905654E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
  <MEAN_OBS>   0.00000000     </MEAN_OBS>
- <STDV_OBS>   5.37141459E-04 </STDV_OBS>
+ <STDV_OBS>   3.99500394E-04 </STDV_OBS>
  <EXP>
  <ID>        2587 </ID>
  <NAME>newsurf</NAME>
- <NUM>         117 </NUM>
- <MEAN>   8.34122402E-05 </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>  0.843401432     </BIAS>
+ <NUM>         213 </NUM>
+ <MEAN>   4.58179893E-05 </MEAN>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>  0.626298368     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2587 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         117 </NUM>
- <MEAN>   4.59163468E-41 </MEAN>
+ <NUM>         213 </NUM>
+ <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
- <BIAS>   5.34841034E-04 </BIAS>
+ <BIAS>   3.98561504E-04 </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
- <MEAN_OBS>   8.62068962E-03 </MEAN_OBS>
- <STDV_OBS>  0.736431718     </STDV_OBS>
+ <MEAN_OBS>   4.71698120E-03 </MEAN_OBS>
+ <STDV_OBS>  0.545165062     </STDV_OBS>
  <EXP>
  <ID>        2589 </ID>
  <NAME>newsurf</NAME>
- <NUM>         116 </NUM>
- <MEAN>   8.07013214E-02 </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>   9.24602821E-02 </BIAS>
- <RMSE>  -1.58801973E-02 </RMSE>
- <CORR> -0.432414055     </CORR>
+ <NUM>         212 </NUM>
+ <MEAN>   4.41573262E-02 </MEAN>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>   6.85245395E-02 </BIAS>
+ <RMSE>  -8.61571915E-03 </RMSE>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2589 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         116 </NUM>
- <MEAN>   4.59163468E-41 </MEAN>
+ <NUM>         212 </NUM>
+ <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
- <BIAS>  0.739996016     </BIAS>
- <RMSE>  -1.02631180E-02 </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <BIAS>  0.548556626     </BIAS>
+ <RMSE>  -5.58933662E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
  <MEAN_OBS>   0.00000000     </MEAN_OBS>
- <STDV_OBS>   3.97332507E-04 </STDV_OBS>
+ <STDV_OBS>   2.96601327E-04 </STDV_OBS>
  <EXP>
  <ID>        2590 </ID>
  <NAME>newsurf</NAME>
- <NUM>         120 </NUM>
- <MEAN>   4.88275036E-05 </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>   4.44475794E-03 </BIAS>
+ <NUM>         216 </NUM>
+ <MEAN>   2.71263889E-05 </MEAN>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>   3.32065765E-03 </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2590 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         120 </NUM>
- <MEAN>   4.59163468E-41 </MEAN>
+ <NUM>         216 </NUM>
+ <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
- <BIAS>   3.95673502E-04 </BIAS>
+ <BIAS>   2.95913982E-04 </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
  <MEAN_OBS>   0.00000000     </MEAN_OBS>
- <STDV_OBS>  0.678974748     </STDV_OBS>
+ <STDV_OBS>  0.508363426     </STDV_OBS>
  <EXP>
  <ID>        2605 </ID>
  <NAME>newsurf</NAME>
- <NUM>         116 </NUM>
- <MEAN>   6.59684837E-02 </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>  0.326688051     </BIAS>
+ <NUM>         207 </NUM>
+ <MEAN>   3.69961485E-02 </MEAN>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>  0.346082002     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2605 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         116 </NUM>
- <MEAN>   4.59163468E-41 </MEAN>
+ <NUM>         207 </NUM>
+ <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
- <BIAS>  0.676041782     </BIAS>
+ <BIAS>  0.507134020     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
  <MEAN_OBS>   0.00000000     </MEAN_OBS>
- <STDV_OBS>  0.231811404     </STDV_OBS>
+ <STDV_OBS>  0.172016665     </STDV_OBS>
  <EXP>
  <ID>        2611 </ID>
  <NAME>newsurf</NAME>
- <NUM>         117 </NUM>
- <MEAN>   2.55913511E-02 </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>  0.466850281     </BIAS>
+ <NUM>         213 </NUM>
+ <MEAN>   1.45890573E-02 </MEAN>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>  0.347416610     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2611 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         117 </NUM>
- <MEAN>   4.59163468E-41 </MEAN>
+ <NUM>         213 </NUM>
+ <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
- <BIAS>  0.230818644     </BIAS>
+ <BIAS>  0.171612382     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
  <MEAN_OBS>   0.00000000     </MEAN_OBS>
- <STDV_OBS>   3.77590139E-03 </STDV_OBS>
+ <STDV_OBS>   2.83374032E-03 </STDV_OBS>
  <EXP>
  <ID>        2615 </ID>
  <NAME>newsurf</NAME>
- <NUM>         118 </NUM>
- <MEAN>   8.93802498E-04 </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>   1.46657508E-02 </BIAS>
+ <NUM>         214 </NUM>
+ <MEAN>   4.92844381E-04 </MEAN>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>   1.09939221E-02 </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2615 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         118 </NUM>
- <MEAN>   4.59163468E-41 </MEAN>
+ <NUM>         214 </NUM>
+ <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
- <BIAS>   3.75986774E-03 </BIAS>
+ <BIAS>   2.82711140E-03 </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
  <MEAN_OBS>   0.00000000     </MEAN_OBS>
- <STDV_OBS>   4.00670659E-04 </STDV_OBS>
+ <STDV_OBS>   4.69475286E-03 </STDV_OBS>
  <EXP>
  <ID>        2618 </ID>
  <NAME>newsurf</NAME>
- <NUM>         118 </NUM>
- <MEAN>   4.96559333E-05 </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>   8.32876132E-04 </BIAS>
+ <NUM>         214 </NUM>
+ <MEAN>   6.34310243E-04 </MEAN>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>   8.33550876E-04 </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2618 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         118 </NUM>
- <MEAN>   4.59163468E-41 </MEAN>
+ <NUM>         214 </NUM>
+ <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
- <BIAS>   3.98969278E-04 </BIAS>
+ <BIAS>   4.68377071E-03 </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
@@ -875,742 +875,742 @@
  <EXP>
  <ID>        2622 </ID>
  <NAME>newsurf</NAME>
- <NUM>         117 </NUM>
+ <NUM>         211 </NUM>
  <MEAN>   0.00000000     </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>   4.00635879E-04 </BIAS>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>  0.111954607     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2622 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         117 </NUM>
- <MEAN>   4.59163468E-41 </MEAN>
+ <NUM>         211 </NUM>
+ <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
  <BIAS>   0.00000000     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
  <MEAN_OBS>   0.00000000     </MEAN_OBS>
- <STDV_OBS>  0.122628398     </STDV_OBS>
+ <STDV_OBS>   9.18375850E-02 </STDV_OBS>
  <EXP>
  <ID>        2623 </ID>
  <NAME>newsurf</NAME>
- <NUM>         118 </NUM>
- <MEAN>   1.58570446E-02 </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>   4.12243698E-03 </BIAS>
+ <NUM>         214 </NUM>
+ <MEAN>   9.72016621E-03 </MEAN>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>   3.52995843E-03 </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2623 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         118 </NUM>
- <MEAN>   4.59163468E-41 </MEAN>
+ <NUM>         214 </NUM>
+ <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
- <BIAS>  0.122107677     </BIAS>
+ <BIAS>   9.16227549E-02 </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
  <MEAN_OBS>   0.00000000     </MEAN_OBS>
- <STDV_OBS>   0.00000000     </STDV_OBS>
+ <STDV_OBS>   2.54269433E-03 </STDV_OBS>
  <EXP>
  <ID>        2625 </ID>
  <NAME>newsurf</NAME>
- <NUM>         117 </NUM>
- <MEAN>   0.00000000     </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>   3.59581871E-04 </BIAS>
+ <NUM>         213 </NUM>
+ <MEAN>   1.74222543E-04 </MEAN>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>   7.07986858E-03 </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2625 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         117 </NUM>
- <MEAN>   4.59163468E-41 </MEAN>
+ <NUM>         213 </NUM>
+ <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
- <BIAS>   0.00000000     </BIAS>
+ <BIAS>   2.53671850E-03 </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
  <MEAN_OBS>   0.00000000     </MEAN_OBS>
- <STDV_OBS>   1.79796989E-04 </STDV_OBS>
+ <STDV_OBS>   3.70060513E-03 </STDV_OBS>
  <EXP>
  <ID>        2628 </ID>
  <NAME>newsurf</NAME>
- <NUM>         118 </NUM>
- <MEAN>   1.65516540E-05 </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>   3.68801504E-02 </BIAS>
+ <NUM>         214 </NUM>
+ <MEAN>   3.44534928E-04 </MEAN>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>  0.164333582     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2628 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         118 </NUM>
- <MEAN>   4.59163468E-41 </MEAN>
+ <NUM>         214 </NUM>
+ <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
- <BIAS>   1.79033508E-04 </BIAS>
+ <BIAS>   3.69194872E-03 </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
  <MEAN_OBS>   0.00000000     </MEAN_OBS>
- <STDV_OBS>   3.56067874E-04 </STDV_OBS>
+ <STDV_OBS>   2.60424912E-02 </STDV_OBS>
  <EXP>
  <ID>        2629 </ID>
  <NAME>newsurf</NAME>
- <NUM>         120 </NUM>
- <MEAN>   3.25044020E-05 </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>   1.50022376E-03 </BIAS>
+ <NUM>         216 </NUM>
+ <MEAN>   2.74881558E-03 </MEAN>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>   1.43072964E-03 </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2629 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         120 </NUM>
- <MEAN>   4.59163468E-41 </MEAN>
+ <NUM>         216 </NUM>
+ <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
- <BIAS>   3.54581163E-04 </BIAS>
+ <BIAS>   2.59821378E-02 </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
  <MEAN_OBS>   0.00000000     </MEAN_OBS>
- <STDV_OBS>   3.26076173E-03 </STDV_OBS>
+ <STDV_OBS>   2.43802834E-03 </STDV_OBS>
  <EXP>
  <ID>        2635 </ID>
  <NAME>newsurf</NAME>
- <NUM>         118 </NUM>
- <MEAN>   6.45522843E-04 </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>   1.00677144E-02 </BIAS>
+ <NUM>         214 </NUM>
+ <MEAN>   3.55942495E-04 </MEAN>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>   7.59250158E-03 </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2635 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         118 </NUM>
- <MEAN>   4.59163468E-41 </MEAN>
+ <NUM>         214 </NUM>
+ <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
- <BIAS>   3.24691553E-03 </BIAS>
+ <BIAS>   2.43232516E-03 </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
- <MEAN_OBS>   0.00000000     </MEAN_OBS>
- <STDV_OBS>   6.79592788E-02 </STDV_OBS>
+ <MEAN_OBS>   2.80373823E-03 </MEAN_OBS>
+ <STDV_OBS>   5.25190458E-02 </STDV_OBS>
  <EXP>
  <ID>        2644 </ID>
  <NAME>newsurf</NAME>
- <NUM>         118 </NUM>
- <MEAN>   6.42213970E-03 </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>   4.30810871E-03 </BIAS>
- <RMSE>   0.00000000     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <NUM>         214 </NUM>
+ <MEAN>   5.21593867E-03 </MEAN>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>   4.14027087E-02 </BIAS>
+ <RMSE>   1.76407844E-02 </RMSE>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2644 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         118 </NUM>
- <MEAN>   4.59163468E-41 </MEAN>
+ <NUM>         214 </NUM>
+ <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
- <BIAS>   6.76707029E-02 </BIAS>
- <RMSE>   0.00000000     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <BIAS>   6.67007565E-02 </BIAS>
+ <RMSE>  -6.82091899E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
  <MEAN_OBS>   0.00000000     </MEAN_OBS>
- <STDV_OBS>   0.00000000     </STDV_OBS>
+ <STDV_OBS>   4.10373434E-02 </STDV_OBS>
  <EXP>
  <ID>        2648 </ID>
  <NAME>newsurf</NAME>
- <NUM>         118 </NUM>
- <MEAN>   0.00000000     </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>   0.00000000     </BIAS>
+ <NUM>         214 </NUM>
+ <MEAN>   4.27360181E-03 </MEAN>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>  0.126046777     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2648 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         118 </NUM>
- <MEAN>   4.59163468E-41 </MEAN>
+ <NUM>         214 </NUM>
+ <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
- <BIAS>   0.00000000     </BIAS>
+ <BIAS>   4.09413464E-02 </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
  <MEAN_OBS>   0.00000000     </MEAN_OBS>
- <STDV_OBS>   0.00000000     </STDV_OBS>
+ <STDV_OBS>   1.52251553E-02 </STDV_OBS>
  <EXP>
  <ID>        2661 </ID>
  <NAME>newsurf</NAME>
- <NUM>         120 </NUM>
- <MEAN>   0.00000000     </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>   3.55096767E-04 </BIAS>
+ <NUM>         215 </NUM>
+ <MEAN>   2.71619926E-03 </MEAN>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>   7.70217646E-03 </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2661 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         120 </NUM>
- <MEAN>   4.59163468E-41 </MEAN>
- <STDV>   0.00000000     </STDV>
- <BIAS>   0.00000000     </BIAS>
- <RMSE>   0.00000000     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
- </EXP>
- </STATION>
- <STATION>
- <MEAN_OBS>   0.00000000     </MEAN_OBS>
- <STDV_OBS>   4.70587313E-02 </STDV_OBS>
- <EXP>
- <ID>        2664 </ID>
- <NAME>newsurf</NAME>
- <NUM>         120 </NUM>
- <MEAN>   5.43619879E-03 </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>   3.95673502E-04 </BIAS>
- <RMSE>   0.00000000     </RMSE>
- <CORR> -0.432414055     </CORR>
- </EXP>
- <EXP>
- <ID>        2664 </ID>
- <NAME>oldsurf</NAME>
- <NUM>         120 </NUM>
- <MEAN>   4.59163468E-41 </MEAN>
- <STDV>   0.00000000     </STDV>
- <BIAS>   4.68622446E-02 </BIAS>
- <RMSE>   0.00000000     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
- </EXP>
- </STATION>
- <STATION>
- <MEAN_OBS>   3.33333351E-02 </MEAN_OBS>
- <STDV_OBS>  0.106492162     </STDV_OBS>
- <EXP>
- <ID>        2667 </ID>
- <NAME>newsurf</NAME>
- <NUM>         120 </NUM>
- <MEAN>   1.27923451E-02 </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>  0.281731933     </BIAS>
- <RMSE>  -1.44251212E-02 </RMSE>
- <CORR> -0.432414055     </CORR>
- </EXP>
- <EXP>
- <ID>        2667 </ID>
- <NAME>oldsurf</NAME>
- <NUM>         120 </NUM>
- <MEAN>   4.59163468E-41 </MEAN>
- <STDV>   0.00000000     </STDV>
- <BIAS>  0.300534725     </BIAS>
- <RMSE>  -1.43768368E-02 </RMSE>
- <CORR>   4.59163468E-41 </CORR>
- </EXP>
- </STATION>
- <STATION>
- <MEAN_OBS>   0.00000000     </MEAN_OBS>
- <STDV_OBS>  0.274425685     </STDV_OBS>
- <EXP>
- <ID>        2679 </ID>
- <NAME>newsurf</NAME>
- <NUM>         117 </NUM>
- <MEAN>   3.01478636E-02 </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>   3.15593667E-02 </BIAS>
- <RMSE>   0.00000000     </RMSE>
- <CORR> -0.432414055     </CORR>
- </EXP>
- <EXP>
- <ID>        2679 </ID>
- <NAME>oldsurf</NAME>
- <NUM>         117 </NUM>
- <MEAN>   4.59163468E-41 </MEAN>
- <STDV>   0.00000000     </STDV>
- <BIAS>  0.273250431     </BIAS>
- <RMSE>   0.00000000     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
- </EXP>
- </STATION>
- <STATION>
- <MEAN_OBS>   3.41880368E-03 </MEAN_OBS>
- <STDV_OBS>   4.72944416E-03 </STDV_OBS>
- <EXP>
- <ID>        2269 </ID>
- <NAME>newsurf</NAME>
- <NUM>         117 </NUM>
- <MEAN>   5.50986326E-04 </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>   2.59340610E-02 </BIAS>
- <RMSE>  -1.64845176E-02 </RMSE>
- <CORR> -0.432414055     </CORR>
- </EXP>
- <EXP>
- <ID>        2269 </ID>
- <NAME>oldsurf</NAME>
- <NUM>         117 </NUM>
- <MEAN>   4.59163468E-41 </MEAN>
- <STDV>   0.00000000     </STDV>
- <BIAS>   2.64200009E-02 </BIAS>
- <RMSE>  -1.54298153E-02 </RMSE>
- <CORR>   4.59163468E-41 </CORR>
- </EXP>
- </STATION>
- <STATION>
- <MEAN_OBS>  0.161016956     </MEAN_OBS>
- <STDV_OBS>  0.567682564     </STDV_OBS>
- <EXP>
- <ID>        2271 </ID>
- <NAME>newsurf</NAME>
- <NUM>         118 </NUM>
- <MEAN>  0.130579412     </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>  0.776645720     </BIAS>
- <RMSE>  0.534372151     </RMSE>
- <CORR> -0.432414055     </CORR>
- </EXP>
- <EXP>
- <ID>        2271 </ID>
- <NAME>oldsurf</NAME>
- <NUM>         118 </NUM>
- <MEAN>   4.59163468E-41 </MEAN>
- <STDV>   0.00000000     </STDV>
- <BIAS>  0.474260002     </BIAS>
- <RMSE>  0.794578493     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
- </EXP>
- </STATION>
- <STATION>
- <MEAN_OBS>  0.138793126     </MEAN_OBS>
- <STDV_OBS>  0.779799700     </STDV_OBS>
- <EXP>
- <ID>        2282 </ID>
- <NAME>newsurf</NAME>
- <NUM>         116 </NUM>
- <MEAN>  0.157479316     </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>  0.902020216     </BIAS>
- <RMSE>  0.501259208     </RMSE>
- <CORR> -0.432414055     </CORR>
- </EXP>
- <EXP>
- <ID>        2282 </ID>
- <NAME>oldsurf</NAME>
- <NUM>         116 </NUM>
- <MEAN>   4.59163468E-41 </MEAN>
- <STDV>   0.00000000     </STDV>
- <BIAS>  0.666524172     </BIAS>
- <RMSE>  0.625952542     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
- </EXP>
- </STATION>
- <STATION>
- <MEAN_OBS>   4.27350448E-03 </MEAN_OBS>
- <STDV_OBS>   9.89114027E-03 </STDV_OBS>
- <EXP>
- <ID>        2284 </ID>
- <NAME>newsurf</NAME>
- <NUM>         117 </NUM>
- <MEAN>   1.30143890E-03 </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>   3.09137143E-02 </BIAS>
- <RMSE>  -2.53790524E-02 </RMSE>
- <CORR> -0.432414055     </CORR>
- </EXP>
- <EXP>
- <ID>        2284 </ID>
- <NAME>oldsurf</NAME>
- <NUM>         117 </NUM>
- <MEAN>   4.59163468E-41 </MEAN>
- <STDV>   0.00000000     </STDV>
- <BIAS>   3.16759199E-02 </BIAS>
- <RMSE>   2.59879958E-02 </RMSE>
- <CORR>   4.59163468E-41 </CORR>
- </EXP>
- </STATION>
- <STATION>
- <MEAN_OBS>   6.88073337E-02 </MEAN_OBS>
- <STDV_OBS>   1.10074058E-02 </STDV_OBS>
- <EXP>
- <ID>        2287 </ID>
- <NAME>newsurf</NAME>
- <NUM>         109 </NUM>
- <MEAN>   1.46932295E-03 </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>  0.394265711     </BIAS>
- <RMSE>  -2.46390253E-02 </RMSE>
- <CORR> -0.432414055     </CORR>
- </EXP>
- <EXP>
- <ID>        2287 </ID>
- <NAME>oldsurf</NAME>
- <NUM>         109 </NUM>
- <MEAN>   4.59163468E-41 </MEAN>
- <STDV>   0.00000000     </STDV>
- <BIAS>  0.392230392     </BIAS>
- <RMSE>  -2.35495437E-02 </RMSE>
- <CORR>   4.59163468E-41 </CORR>
- </EXP>
- </STATION>
- <STATION>
- <MEAN_OBS>  0.103418812     </MEAN_OBS>
- <STDV_OBS>  0.732194662     </STDV_OBS>
- <EXP>
- <ID>        2297 </ID>
- <NAME>newsurf</NAME>
- <NUM>         117 </NUM>
- <MEAN>  0.139205709     </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>   1.01751459     </BIAS>
- <RMSE>  0.190840214     </RMSE>
- <CORR> -0.432414055     </CORR>
- </EXP>
- <EXP>
- <ID>        2297 </ID>
- <NAME>oldsurf</NAME>
- <NUM>         117 </NUM>
- <MEAN>   4.59163468E-41 </MEAN>
- <STDV>   0.00000000     </STDV>
- <BIAS>  0.453545839     </BIAS>
- <RMSE>  0.792133927     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
- </EXP>
- </STATION>
- <STATION>
- <MEAN_OBS>   3.38983047E-03 </MEAN_OBS>
- <STDV_OBS>   3.59238610E-02 </STDV_OBS>
- <EXP>
- <ID>        2308 </ID>
- <NAME>newsurf</NAME>
- <NUM>         118 </NUM>
- <MEAN>   8.85468535E-03 </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>   4.75331768E-02 </BIAS>
- <RMSE>  0.282554656     </RMSE>
- <CORR> -0.432414055     </CORR>
- </EXP>
- <EXP>
- <ID>        2308 </ID>
- <NAME>oldsurf</NAME>
- <NUM>         118 </NUM>
- <MEAN>   4.59163468E-41 </MEAN>
- <STDV>   0.00000000     </STDV>
- <BIAS>   3.70917469E-02 </BIAS>
- <RMSE>  0.178638950     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
- </EXP>
- </STATION>
- <STATION>
- <MEAN_OBS>   8.54700920E-04 </MEAN_OBS>
- <STDV_OBS>   7.32313434E-04 </STDV_OBS>
- <EXP>
- <ID>        2317 </ID>
- <NAME>newsurf</NAME>
- <NUM>         117 </NUM>
- <MEAN>   1.50240186E-04 </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>   1.83874685E-02 </BIAS>
- <RMSE>  -9.20207240E-03 </RMSE>
- <CORR> -0.432414055     </CORR>
- </EXP>
- <EXP>
- <ID>        2317 </ID>
- <NAME>oldsurf</NAME>
- <NUM>         117 </NUM>
- <MEAN>   4.59163468E-41 </MEAN>
- <STDV>   0.00000000     </STDV>
- <BIAS>   9.24814027E-03 </BIAS>
- <RMSE>  -1.91304013E-02 </RMSE>
- <CORR>   4.59163468E-41 </CORR>
- </EXP>
- </STATION>
- <STATION>
- <MEAN_OBS>   8.47457629E-03 </MEAN_OBS>
- <STDV_OBS>  0.150090292     </STDV_OBS>
- <EXP>
- <ID>        2319 </ID>
- <NAME>newsurf</NAME>
- <NUM>         118 </NUM>
- <MEAN>   2.25602519E-02 </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>   7.55849555E-02 </BIAS>
- <RMSE>  -1.24329785E-02 </RMSE>
- <CORR> -0.432414055     </CORR>
- </EXP>
- <EXP>
- <ID>        2319 </ID>
- <NAME>oldsurf</NAME>
- <NUM>         118 </NUM>
+ <NUM>         215 </NUM>
  <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
- <BIAS>  0.154255882     </BIAS>
- <RMSE>  0.162710026     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <BIAS>   1.51897073E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
- <MEAN_OBS>   1.70940184E-03 </MEAN_OBS>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   4.01574299E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2664 </ID>
+ <NAME>newsurf</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   5.19476924E-03 </MEAN>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>   2.39018407E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -1.65105611E-31 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2664 </ID>
+ <NAME>oldsurf</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   4.00643647E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.85185187E-02 </MEAN_OBS>
+ <STDV_OBS>   7.99782723E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2667 </ID>
+ <NAME>newsurf</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   7.86188617E-03 </MEAN>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>  0.210938424     </BIAS>
+ <RMSE>  -1.15736136E-02 </RMSE>
+ <CORR>  -1.65105611E-31 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2667 </ID>
+ <NAME>oldsurf</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.224475443     </BIAS>
+ <RMSE>  -8.72515701E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>  0.203551322     </STDV_OBS>
+ <EXP>
+ <ID>        2679 </ID>
+ <NAME>newsurf</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>   1.65600944E-02 </MEAN>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>   2.34717298E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -1.65105611E-31 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2679 </ID>
+ <NAME>oldsurf</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.203072950     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.87793432E-03 </MEAN_OBS>
+ <STDV_OBS>   3.50918947E-03 </STDV_OBS>
+ <EXP>
+ <ID>        2269 </ID>
+ <NAME>newsurf</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>   3.02654458E-04 </MEAN>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>   1.92938428E-02 </BIAS>
+ <RMSE>  -8.98800418E-03 </RMSE>
+ <CORR>  -1.65105611E-31 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2269 </ID>
+ <NAME>oldsurf</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.96329709E-02 </BIAS>
+ <RMSE>  -8.41658469E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.10328689E-02 </MEAN_OBS>
+ <STDV_OBS>  0.404918224     </STDV_OBS>
+ <EXP>
+ <ID>        2271 </ID>
+ <NAME>newsurf</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>   6.31744862E-02 </MEAN>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>  0.422491431     </BIAS>
+ <RMSE>  0.740588069     </RMSE>
+ <CORR>  -1.65105611E-31 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2271 </ID>
+ <NAME>oldsurf</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.225909859     </BIAS>
+ <RMSE>  0.849939883     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.59434104E-02 </MEAN_OBS>
+ <STDV_OBS>  0.581002057     </STDV_OBS>
+ <EXP>
+ <ID>        2282 </ID>
+ <NAME>newsurf</NAME>
+ <NUM>         212 </NUM>
+ <MEAN>   8.63752216E-02 </MEAN>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>  0.668646395     </BIAS>
+ <RMSE>  0.510161102     </RMSE>
+ <CORR>  -1.65105611E-31 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2282 </ID>
+ <NAME>oldsurf</NAME>
+ <NUM>         212 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.493120790     </BIAS>
+ <RMSE>  0.632006407     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.34741787E-03 </MEAN_OBS>
+ <STDV_OBS>   7.34515907E-03 </STDV_OBS>
+ <EXP>
+ <ID>        2284 </ID>
+ <NAME>newsurf</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>   7.19459669E-04 </MEAN>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>   2.29723006E-02 </BIAS>
+ <RMSE>  -1.37781985E-02 </RMSE>
+ <CORR>  -1.65105611E-31 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2284 </ID>
+ <NAME>oldsurf</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.35233866E-02 </BIAS>
+ <RMSE>   3.40199023E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.70731689E-02 </MEAN_OBS>
+ <STDV_OBS>   8.04271735E-03 </STDV_OBS>
+ <EXP>
+ <ID>        2287 </ID>
+ <NAME>newsurf</NAME>
+ <NUM>         205 </NUM>
+ <MEAN>   7.81249779E-04 </MEAN>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>  0.289279073     </BIAS>
+ <RMSE>  -1.31192366E-02 </RMSE>
+ <CORR>  -1.65105611E-31 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2287 </ID>
+ <NAME>oldsurf</NAME>
+ <NUM>         205 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.287998259     </BIAS>
+ <RMSE>  -1.25440918E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.72770014E-02 </MEAN_OBS>
+ <STDV_OBS>  0.546071351     </STDV_OBS>
+ <EXP>
+ <ID>        2297 </ID>
+ <NAME>newsurf</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>   7.73820654E-02 </MEAN>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>  0.755558193     </BIAS>
+ <RMSE>  0.198051482     </RMSE>
+ <CORR>  -1.65105611E-31 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2297 </ID>
+ <NAME>oldsurf</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.336913258     </BIAS>
+ <RMSE>  0.794300437     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.86915882E-03 </MEAN_OBS>
+ <STDV_OBS>   2.69848201E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2308 </ID>
+ <NAME>newsurf</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   4.90530673E-03 </MEAN>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>   3.54700275E-02 </BIAS>
+ <RMSE>  0.294974566     </RMSE>
+ <CORR>  -1.65105611E-31 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2308 </ID>
+ <NAME>oldsurf</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.76750177E-02 </BIAS>
+ <RMSE>  0.195130870     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.69483581E-04 </MEAN_OBS>
+ <STDV_OBS>   5.46856842E-04 </STDV_OBS>
+ <EXP>
+ <ID>        2317 </ID>
+ <NAME>newsurf</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>   8.25262978E-05 </MEAN>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>   1.37562994E-02 </BIAS>
+ <RMSE>  -5.71621442E-03 </RMSE>
+ <CORR>  -1.65105611E-31 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2317 </ID>
+ <NAME>oldsurf</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   6.86316844E-03 </BIAS>
+ <RMSE>  -1.03889741E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.67289705E-03 </MEAN_OBS>
+ <STDV_OBS>  0.113827214     </STDV_OBS>
+ <EXP>
+ <ID>        2319 </ID>
+ <NAME>newsurf</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   1.40825799E-02 </MEAN>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>   8.87388214E-02 </BIAS>
+ <RMSE>  -8.62099696E-03 </RMSE>
+ <CORR>  -1.65105611E-31 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2319 </ID>
+ <NAME>oldsurf</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.116785921     </BIAS>
+ <RMSE>  0.165211543     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   9.38967161E-04 </MEAN_OBS>
  <STDV_OBS>   0.00000000     </STDV_OBS>
  <EXP>
  <ID>        2321 </ID>
  <NAME>newsurf</NAME>
- <NUM>         117 </NUM>
+ <NUM>         213 </NUM>
  <MEAN>   0.00000000     </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>   1.29621811E-02 </BIAS>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>   9.64443199E-03 </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2321 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         117 </NUM>
+ <NUM>         213 </NUM>
  <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
- <BIAS>   1.29621811E-02 </BIAS>
+ <BIAS>   9.64443199E-03 </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
- <MEAN_OBS>   1.70940179E-02 </MEAN_OBS>
- <STDV_OBS>   3.59463808E-03 </STDV_OBS>
+ <MEAN_OBS>   9.38967150E-03 </MEAN_OBS>
+ <STDV_OBS>   2.87452061E-03 </STDV_OBS>
  <EXP>
  <ID>        2325 </ID>
  <NAME>newsurf</NAME>
- <NUM>         117 </NUM>
- <MEAN>   1.01776281E-03 </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>  0.110695161     </BIAS>
- <RMSE>  0.318227738     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <NUM>         213 </NUM>
+ <MEAN>   6.92012080E-04 </MEAN>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>  0.851653576     </BIAS>
+ <RMSE>  -7.33920233E-03 </RMSE>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2325 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         117 </NUM>
+ <NUM>         213 </NUM>
  <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
- <BIAS>  0.112724677     </BIAS>
- <RMSE>   6.45250967E-03 </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <BIAS>   8.39477852E-02 </BIAS>
+ <RMSE>   1.86425485E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
  <MEAN_OBS>   0.00000000     </MEAN_OBS>
- <STDV_OBS>   1.02849621E-02 </STDV_OBS>
+ <STDV_OBS>  0.201396450     </STDV_OBS>
  <EXP>
  <ID>        2327 </ID>
  <NAME>newsurf</NAME>
- <NUM>         118 </NUM>
- <MEAN>   1.45656778E-03 </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>   6.01044158E-03 </BIAS>
+ <NUM>         214 </NUM>
+ <MEAN>   1.98321249E-02 </MEAN>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>   2.95066796E-02 </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2327 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         118 </NUM>
+ <NUM>         214 </NUM>
  <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
- <BIAS>   1.02412887E-02 </BIAS>
+ <BIAS>  0.200925335     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
- <MEAN_OBS>   0.00000000     </MEAN_OBS>
- <STDV_OBS>   0.00000000     </STDV_OBS>
+ <MEAN_OBS>   4.67289705E-04 </MEAN_OBS>
+ <STDV_OBS>   1.33511174E-04 </STDV_OBS>
  <EXP>
  <ID>        2329 </ID>
  <NAME>newsurf</NAME>
- <NUM>         118 </NUM>
- <MEAN>   0.00000000     </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>   0.00000000     </BIAS>
- <RMSE>   0.00000000     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <NUM>         214 </NUM>
+ <MEAN>   9.12663472E-06 </MEAN>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>   6.43563643E-02 </BIAS>
+ <RMSE>  -5.90608595E-03 </RMSE>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2329 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         118 </NUM>
+ <NUM>         214 </NUM>
  <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
- <BIAS>   0.00000000     </BIAS>
- <RMSE>   0.00000000     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <BIAS>   6.82179490E-03 </BIAS>
+ <RMSE>  -4.69483435E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
- <MEAN_OBS>   1.69491523E-03 </MEAN_OBS>
- <STDV_OBS>  0.751137018     </STDV_OBS>
+ <MEAN_OBS>   9.34579410E-04 </MEAN_OBS>
+ <STDV_OBS>  0.558226109     </STDV_OBS>
  <EXP>
  <ID>        2331 </ID>
  <NAME>newsurf</NAME>
- <NUM>         118 </NUM>
- <MEAN>   8.32890868E-02 </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>  0.363251537     </BIAS>
- <RMSE>  0.695479810     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <NUM>         214 </NUM>
+ <MEAN>   4.62497585E-02 </MEAN>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>  0.285151392     </BIAS>
+ <RMSE>  0.661100388     </RMSE>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2331 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         118 </NUM>
+ <NUM>         214 </NUM>
  <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
- <BIAS>  0.738969982     </BIAS>
- <RMSE>  0.699942470     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <BIAS>  0.550210118     </BIAS>
+ <RMSE>  0.701806545     </RMSE>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
- <MEAN_OBS>   8.54700920E-04 </MEAN_OBS>
+ <MEAN_OBS>   4.69483581E-04 </MEAN_OBS>
  <STDV_OBS>   0.00000000     </STDV_OBS>
  <EXP>
  <ID>        2338 </ID>
  <NAME>newsurf</NAME>
- <NUM>         117 </NUM>
+ <NUM>         213 </NUM>
  <MEAN>   0.00000000     </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>   9.20871552E-03 </BIAS>
- <RMSE>  -8.62068962E-03 </RMSE>
- <CORR> -0.432414055     </CORR>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>   6.83771726E-03 </BIAS>
+ <RMSE>  -4.71698120E-03 </RMSE>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2338 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         117 </NUM>
+ <NUM>         213 </NUM>
  <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
- <BIAS>   9.20541026E-03 </BIAS>
+ <BIAS>   6.83578430E-03 </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
  <MEAN_OBS>   0.00000000     </MEAN_OBS>
- <STDV_OBS>   1.90515034E-02 </STDV_OBS>
+ <STDV_OBS>   1.42212640E-02 </STDV_OBS>
  <EXP>
  <ID>        2343 </ID>
  <NAME>newsurf</NAME>
- <NUM>         118 </NUM>
- <MEAN>   3.40937497E-03 </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>   2.08577458E-02 </BIAS>
+ <NUM>         214 </NUM>
+ <MEAN>   1.88906235E-03 </MEAN>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>  0.399313390     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2343 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         118 </NUM>
+ <NUM>         214 </NUM>
  <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
- <BIAS>   1.89706050E-02 </BIAS>
+ <BIAS>   1.41879981E-02 </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
- <MEAN_OBS>   8.47457617E-04 </MEAN_OBS>
+ <MEAN_OBS>   4.67289705E-04 </MEAN_OBS>
  <STDV_OBS>   0.00000000     </STDV_OBS>
  <EXP>
  <ID>        2347 </ID>
  <NAME>newsurf</NAME>
- <NUM>         118 </NUM>
+ <NUM>         214 </NUM>
  <MEAN>   0.00000000     </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>   1.17314495E-02 </BIAS>
- <RMSE>  -9.73252952E-03 </RMSE>
- <CORR> -0.432414055     </CORR>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>   8.71146098E-03 </BIAS>
+ <RMSE>  -5.34301065E-03 </RMSE>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2347 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         118 </NUM>
+ <NUM>         214 </NUM>
  <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
- <BIAS>   9.16665606E-03 </BIAS>
+ <BIAS>   6.81986939E-03 </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
  <MEAN_OBS>   0.00000000     </MEAN_OBS>
- <STDV_OBS>   3.61128303E-04 </STDV_OBS>
+ <STDV_OBS>   2.67648429E-04 </STDV_OBS>
  <EXP>
  <ID>        2355 </ID>
  <NAME>newsurf</NAME>
- <NUM>         117 </NUM>
- <MEAN>   3.33863245E-05 </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>   8.30840971E-03 </BIAS>
+ <NUM>         213 </NUM>
+ <MEAN>   1.83389675E-05 </MEAN>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>   6.18833536E-03 </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2355 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         117 </NUM>
+ <NUM>         213 </NUM>
  <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
- <BIAS>   3.59581725E-04 </BIAS>
+ <BIAS>   2.67019379E-04 </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
- <MEAN_OBS>   5.98290609E-03 </MEAN_OBS>
- <STDV_OBS>   1.02769863E-02 </STDV_OBS>
+ <MEAN_OBS>   3.28638498E-03 </MEAN_OBS>
+ <STDV_OBS>   7.63038173E-03 </STDV_OBS>
  <EXP>
  <ID>        2368 </ID>
  <NAME>newsurf</NAME>
- <NUM>         117 </NUM>
- <MEAN>   1.31877698E-03 </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>   3.99142057E-02 </BIAS>
- <RMSE>   3.77547964E-02 </RMSE>
- <CORR> -0.432414055     </CORR>
+ <NUM>         213 </NUM>
+ <MEAN>   7.24398647E-04 </MEAN>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>   2.97024157E-02 </BIAS>
+ <RMSE>   4.72331308E-02 </RMSE>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2368 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         117 </NUM>
+ <NUM>         213 </NUM>
  <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
- <BIAS>   4.00640927E-02 </BIAS>
- <RMSE>  0.107551552     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <BIAS>   2.97838487E-02 </BIAS>
+ <RMSE>  0.115255125     </RMSE>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
@@ -1619,22 +1619,22 @@
  <EXP>
  <ID>        2382 </ID>
  <NAME>newsurf</NAME>
- <NUM>         117 </NUM>
+ <NUM>         213 </NUM>
  <MEAN>   0.00000000     </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>   6.40465994E-04 </BIAS>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>   4.78225644E-04 </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2382 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         117 </NUM>
+ <NUM>         213 </NUM>
  <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
  <BIAS>   0.00000000     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
@@ -1643,46 +1643,46 @@
  <EXP>
  <ID>        2403 </ID>
  <NAME>newsurf</NAME>
- <NUM>         117 </NUM>
+ <NUM>         213 </NUM>
  <MEAN>   0.00000000     </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>   0.00000000     </BIAS>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>   2.67026131E-04 </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2403 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         117 </NUM>
+ <NUM>         213 </NUM>
  <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
  <BIAS>   0.00000000     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
- <MEAN_OBS>   1.75438600E-03 </MEAN_OBS>
- <STDV_OBS>   1.06097562E-02 </STDV_OBS>
+ <MEAN_OBS>   9.52381000E-04 </MEAN_OBS>
+ <STDV_OBS>   7.81714544E-03 </STDV_OBS>
  <EXP>
  <ID>        2407 </ID>
  <NAME>newsurf</NAME>
- <NUM>         114 </NUM>
- <MEAN>   9.93694761E-04 </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>   1.31382514E-02 </BIAS>
- <RMSE>  -1.25709111E-02 </RMSE>
- <CORR> -0.432414055     </CORR>
+ <NUM>         210 </NUM>
+ <MEAN>   5.39434317E-04 </MEAN>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>   9.71796364E-03 </BIAS>
+ <RMSE>  -6.78281905E-03 </RMSE>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2407 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         114 </NUM>
+ <NUM>         210 </NUM>
  <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
- <BIAS>   1.69536695E-02 </BIAS>
- <RMSE>  -1.25709120E-02 </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <BIAS>   1.24970134E-02 </BIAS>
+ <RMSE>  -6.78281812E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
@@ -1691,22 +1691,22 @@
  <EXP>
  <ID>        2408 </ID>
  <NAME>newsurf</NAME>
- <NUM>          64 </NUM>
+ <NUM>         150 </NUM>
  <MEAN>   0.00000000     </MEAN>
- <STDV>   1.73709203E+18 </STDV>
+ <STDV>  -1.65206421E-31 </STDV>
  <BIAS>   0.00000000     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2408 </ID>
  <NAME>oldsurf</NAME>
- <NUM>          64 </NUM>
+ <NUM>         150 </NUM>
  <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
  <BIAS>   0.00000000     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
@@ -1715,22 +1715,22 @@
  <EXP>
  <ID>        2411 </ID>
  <NAME>newsurf</NAME>
- <NUM>         118 </NUM>
+ <NUM>         214 </NUM>
  <MEAN>   0.00000000     </MEAN>
- <STDV>   1.73709203E+18 </STDV>
+ <STDV>  -1.65206421E-31 </STDV>
  <BIAS>   0.00000000     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2411 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         118 </NUM>
+ <NUM>         214 </NUM>
  <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
  <BIAS>   0.00000000     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
@@ -1739,70 +1739,70 @@
  <EXP>
  <ID>        2423 </ID>
  <NAME>newsurf</NAME>
- <NUM>         117 </NUM>
+ <NUM>         213 </NUM>
  <MEAN>   0.00000000     </MEAN>
- <STDV>   1.73709203E+18 </STDV>
+ <STDV>  -1.65206421E-31 </STDV>
  <BIAS>   0.00000000     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2423 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         117 </NUM>
+ <NUM>         213 </NUM>
  <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
  <BIAS>   0.00000000     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
  <MEAN_OBS>   0.00000000     </MEAN_OBS>
- <STDV_OBS>   6.20087550E-04 </STDV_OBS>
+ <STDV_OBS>   5.31502650E-04 </STDV_OBS>
  <EXP>
  <ID>        2426 </ID>
  <NAME>newsurf</NAME>
- <NUM>         117 </NUM>
- <MEAN>   1.00160694E-04 </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>   1.37899700E-03 </BIAS>
+ <NUM>         213 </NUM>
+ <MEAN>   7.33568086E-05 </MEAN>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>   1.03022321E-03 </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2426 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         117 </NUM>
+ <NUM>         213 </NUM>
  <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
- <BIAS>   6.17431942E-04 </BIAS>
+ <BIAS>   5.30253514E-04 </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
  <MEAN_OBS>   0.00000000     </MEAN_OBS>
- <STDV_OBS>   5.46930241E-04 </STDV_OBS>
+ <STDV_OBS>   4.70231986E-04 </STDV_OBS>
  <EXP>
  <ID>        2429 </ID>
  <NAME>newsurf</NAME>
- <NUM>         101 </NUM>
- <MEAN>   7.73514839E-05 </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>   2.09349580E-03 </BIAS>
+ <NUM>         137 </NUM>
+ <MEAN>   5.70255470E-05 </MEAN>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>   1.80555729E-03 </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2429 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         101 </NUM>
+ <NUM>         137 </NUM>
  <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
- <BIAS>   5.44215960E-04 </BIAS>
+ <BIAS>   4.68512677E-04 </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
@@ -1811,22 +1811,22 @@
  <EXP>
  <ID>        2431 </ID>
  <NAME>newsurf</NAME>
- <NUM>         118 </NUM>
+ <NUM>         214 </NUM>
  <MEAN>   0.00000000     </MEAN>
- <STDV>   1.73709203E+18 </STDV>
+ <STDV>  -1.65206421E-31 </STDV>
  <BIAS>   0.00000000     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2431 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         118 </NUM>
- <MEAN>   4.59163468E-41 </MEAN>
+ <NUM>         214 </NUM>
+ <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
  <BIAS>   0.00000000     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
@@ -1835,22 +1835,22 @@
  <EXP>
  <ID>        2440 </ID>
  <NAME>newsurf</NAME>
- <NUM>         117 </NUM>
+ <NUM>         212 </NUM>
  <MEAN>   0.00000000     </MEAN>
- <STDV>   1.73709203E+18 </STDV>
+ <STDV>  -1.65206421E-31 </STDV>
  <BIAS>   0.00000000     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2440 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         117 </NUM>
+ <NUM>         212 </NUM>
  <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
  <BIAS>   0.00000000     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
@@ -1859,22 +1859,22 @@
  <EXP>
  <ID>        2441 </ID>
  <NAME>newsurf</NAME>
- <NUM>         118 </NUM>
+ <NUM>         214 </NUM>
  <MEAN>   0.00000000     </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>   3.58077959E-04 </BIAS>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>   2.66405172E-04 </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2441 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         118 </NUM>
+ <NUM>         214 </NUM>
  <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
  <BIAS>   0.00000000     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
@@ -1883,22 +1883,22 @@
  <EXP>
  <ID>        2443 </ID>
  <NAME>newsurf</NAME>
- <NUM>         120 </NUM>
+ <NUM>         216 </NUM>
  <MEAN>   0.00000000     </MEAN>
- <STDV>   1.73709203E+18 </STDV>
+ <STDV>  -1.65206421E-31 </STDV>
  <BIAS>   0.00000000     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2443 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         120 </NUM>
+ <NUM>         216 </NUM>
  <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
  <BIAS>   0.00000000     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
@@ -1907,46 +1907,46 @@
  <EXP>
  <ID>        2449 </ID>
  <NAME>newsurf</NAME>
- <NUM>         118 </NUM>
+ <NUM>         214 </NUM>
  <MEAN>   0.00000000     </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>   1.79043171E-04 </BIAS>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>   1.33205700E-04 </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2449 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         118 </NUM>
+ <NUM>         214 </NUM>
  <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
  <BIAS>   0.00000000     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
  <MEAN_OBS>   0.00000000     </MEAN_OBS>
- <STDV_OBS>   1.79797426E-04 </STDV_OBS>
+ <STDV_OBS>   1.33511174E-04 </STDV_OBS>
  <EXP>
  <ID>        2452 </ID>
  <NAME>newsurf</NAME>
- <NUM>         118 </NUM>
- <MEAN>   1.65516940E-05 </MEAN>
- <STDV>   1.73709203E+18 </STDV>
+ <NUM>         214 </NUM>
+ <MEAN>   9.12663472E-06 </MEAN>
+ <STDV>  -1.65206421E-31 </STDV>
  <BIAS>   0.00000000     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2452 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         118 </NUM>
+ <NUM>         214 </NUM>
  <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
- <BIAS>   1.79033959E-04 </BIAS>
+ <BIAS>   1.33198861E-04 </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
@@ -1955,70 +1955,70 @@
  <EXP>
  <ID>        2453 </ID>
  <NAME>newsurf</NAME>
- <NUM>         117 </NUM>
+ <NUM>         213 </NUM>
  <MEAN>   0.00000000     </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>   1.79790863E-04 </BIAS>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>   1.33509689E-04 </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2453 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         117 </NUM>
+ <NUM>         213 </NUM>
  <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
  <BIAS>   0.00000000     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
  <MEAN_OBS>   0.00000000     </MEAN_OBS>
- <STDV_OBS>   1.07880298E-03 </STDV_OBS>
+ <STDV_OBS>   8.01080663E-04 </STDV_OBS>
  <EXP>
  <ID>        2456 </ID>
  <NAME>newsurf</NAME>
- <NUM>         118 </NUM>
- <MEAN>   9.93118665E-05 </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>   1.79033959E-04 </BIAS>
+ <NUM>         214 </NUM>
+ <MEAN>   5.47607488E-05 </MEAN>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>   1.33198861E-04 </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2456 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         118 </NUM>
+ <NUM>         214 </NUM>
  <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
- <BIAS>   1.07422203E-03 </BIAS>
+ <BIAS>   7.99206842E-04 </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
- <MEAN_OBS>   1.66666682E-03 </MEAN_OBS>
+ <MEAN_OBS>   9.25925968E-04 </MEAN_OBS>
  <STDV_OBS>   0.00000000     </STDV_OBS>
  <EXP>
  <ID>        2458 </ID>
  <NAME>newsurf</NAME>
- <NUM>         120 </NUM>
+ <NUM>         216 </NUM>
  <MEAN>   0.00000000     </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>   1.81876384E-02 </BIAS>
- <RMSE>  -8.40336271E-03 </RMSE>
- <CORR> -0.432414055     </CORR>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>   1.35805625E-02 </BIAS>
+ <RMSE>  -4.65116231E-03 </RMSE>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2458 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         120 </NUM>
+ <NUM>         216 </NUM>
  <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
- <BIAS>   1.81811880E-02 </BIAS>
+ <BIAS>   1.35767395E-02 </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
@@ -2027,46 +2027,46 @@
  <EXP>
  <ID>        2468 </ID>
  <NAME>newsurf</NAME>
- <NUM>         117 </NUM>
+ <NUM>         213 </NUM>
  <MEAN>   0.00000000     </MEAN>
- <STDV>   1.73709203E+18 </STDV>
+ <STDV>  -1.65206421E-31 </STDV>
  <BIAS>   0.00000000     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2468 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         117 </NUM>
+ <NUM>         213 </NUM>
  <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
  <BIAS>   0.00000000     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
  <MEAN_OBS>   0.00000000     </MEAN_OBS>
- <STDV_OBS>   1.74927220E-04 </STDV_OBS>
+ <STDV_OBS>   1.29894732E-04 </STDV_OBS>
  <EXP>
  <ID>        2469 </ID>
  <NAME>newsurf</NAME>
- <NUM>         118 </NUM>
- <MEAN>   1.61033568E-05 </MEAN>
- <STDV>   1.73709203E+18 </STDV>
+ <NUM>         214 </NUM>
+ <MEAN>   8.87942042E-06 </MEAN>
+ <STDV>  -1.65206421E-31 </STDV>
  <BIAS>   0.00000000     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2469 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         118 </NUM>
+ <NUM>         214 </NUM>
  <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
- <BIAS>   1.74184432E-04 </BIAS>
+ <BIAS>   1.29590888E-04 </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
@@ -2075,22 +2075,22 @@
  <EXP>
  <ID>        2476 </ID>
  <NAME>newsurf</NAME>
- <NUM>         117 </NUM>
+ <NUM>         213 </NUM>
  <MEAN>   0.00000000     </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>   1.79790863E-04 </BIAS>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>   1.48986845E-04 </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2476 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         117 </NUM>
+ <NUM>         213 </NUM>
  <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
  <BIAS>   0.00000000     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
@@ -2099,22 +2099,22 @@
  <EXP>
  <ID>        2481 </ID>
  <NAME>newsurf</NAME>
- <NUM>         118 </NUM>
+ <NUM>         214 </NUM>
  <MEAN>   0.00000000     </MEAN>
- <STDV>   1.73709203E+18 </STDV>
+ <STDV>  -1.65206421E-31 </STDV>
  <BIAS>   0.00000000     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2481 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         118 </NUM>
+ <NUM>         214 </NUM>
  <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
  <BIAS>   0.00000000     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
@@ -2123,46 +2123,46 @@
  <EXP>
  <ID>        2482 </ID>
  <NAME>newsurf</NAME>
- <NUM>         118 </NUM>
+ <NUM>         214 </NUM>
  <MEAN>   0.00000000     </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>   0.00000000     </BIAS>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>   1.33198861E-04 </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2482 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         118 </NUM>
+ <NUM>         214 </NUM>
  <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
  <BIAS>   0.00000000     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
  <MEAN_OBS>   0.00000000     </MEAN_OBS>
- <STDV_OBS>   1.80563715E-04 </STDV_OBS>
+ <STDV_OBS>   1.33823880E-04 </STDV_OBS>
  <EXP>
  <ID>        2486 </ID>
  <NAME>newsurf</NAME>
- <NUM>         117 </NUM>
- <MEAN>   1.66931222E-05 </MEAN>
- <STDV>   1.73709203E+18 </STDV>
+ <NUM>         213 </NUM>
+ <MEAN>   9.16946101E-06 </MEAN>
+ <STDV>  -1.65206421E-31 </STDV>
  <BIAS>   0.00000000     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2486 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         117 </NUM>
- <MEAN>   4.59163468E-41 </MEAN>
+ <NUM>         213 </NUM>
+ <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
- <BIAS>   1.79790426E-04 </BIAS>
+ <BIAS>   1.33509369E-04 </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
@@ -2171,1222 +2171,1222 @@
  <EXP>
  <ID>        2489 </ID>
  <NAME>newsurf</NAME>
- <NUM>         120 </NUM>
+ <NUM>         216 </NUM>
  <MEAN>   0.00000000     </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>   5.28650940E-04 </BIAS>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>   3.96102638E-04 </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2489 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         120 </NUM>
+ <NUM>         216 </NUM>
  <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
  <BIAS>   0.00000000     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
- <MEAN_OBS>  0.264957249     </MEAN_OBS>
- <STDV_OBS>  0.413060665     </STDV_OBS>
+ <MEAN_OBS>  0.234741718     </MEAN_OBS>
+ <STDV_OBS>  0.375261456     </STDV_OBS>
  <EXP>
  <ID>        2013 </ID>
  <NAME>newsurf</NAME>
- <NUM>         117 </NUM>
- <MEAN>  0.221495748     </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>  0.627702355     </BIAS>
- <RMSE>   9.61671174E-02 </RMSE>
- <CORR> -0.432414055     </CORR>
+ <NUM>         213 </NUM>
+ <MEAN>  0.190542266     </MEAN>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>  0.660391033     </BIAS>
+ <RMSE>   7.13185593E-02 </RMSE>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2013 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         117 </NUM>
+ <NUM>         213 </NUM>
  <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
- <BIAS>  0.626837492     </BIAS>
- <RMSE>  0.173601434     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <BIAS>  0.570868373     </BIAS>
+ <RMSE>  0.171591505     </RMSE>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
- <MEAN_OBS>  0.907692313     </MEAN_OBS>
- <STDV_OBS>   1.08319032     </STDV_OBS>
+ <MEAN_OBS>  0.719248891     </MEAN_OBS>
+ <STDV_OBS>  0.951724470     </STDV_OBS>
  <EXP>
  <ID>        2019 </ID>
  <NAME>newsurf</NAME>
- <NUM>         117 </NUM>
- <MEAN>  0.935517192     </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>   1.28553200     </BIAS>
- <RMSE>  0.291594654     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <NUM>         213 </NUM>
+ <MEAN>  0.747490108     </MEAN>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>   1.10788131     </BIAS>
+ <RMSE>  0.370467246     </RMSE>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2019 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         117 </NUM>
+ <NUM>         213 </NUM>
  <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
- <BIAS>   1.29336131     </BIAS>
- <RMSE>  0.296628445     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <BIAS>   1.16064727     </BIAS>
+ <RMSE>  0.308830827     </RMSE>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
- <MEAN_OBS>   9.32203420E-03 </MEAN_OBS>
- <STDV_OBS>   2.49834433E-02 </STDV_OBS>
+ <MEAN_OBS>   1.44859813E-02 </MEAN_OBS>
+ <STDV_OBS>   9.74775478E-02 </STDV_OBS>
  <EXP>
  <ID>        2031 </ID>
  <NAME>newsurf</NAME>
- <NUM>         118 </NUM>
- <MEAN>   7.64687546E-03 </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>   9.55036208E-02 </BIAS>
- <RMSE>   4.05193381E-02 </RMSE>
- <CORR> -0.432414055     </CORR>
+ <NUM>         214 </NUM>
+ <MEAN>   1.53581081E-02 </MEAN>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>   8.49706605E-02 </BIAS>
+ <RMSE>  0.422772080     </RMSE>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2031 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         118 </NUM>
- <MEAN>   4.59163468E-41 </MEAN>
+ <NUM>         214 </NUM>
+ <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
- <BIAS>   9.60930437E-02 </BIAS>
- <RMSE>  -3.11305430E-02 </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <BIAS>  0.135957956     </BIAS>
+ <RMSE>  -1.71664860E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
- <MEAN_OBS>   5.64102568E-02 </MEAN_OBS>
- <STDV_OBS>  0.138543278     </STDV_OBS>
+ <MEAN_OBS>   3.09859160E-02 </MEAN_OBS>
+ <STDV_OBS>  0.109044693     </STDV_OBS>
  <EXP>
  <ID>        2036 </ID>
  <NAME>newsurf</NAME>
- <NUM>         117 </NUM>
- <MEAN>   3.71092781E-02 </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>  0.329288274     </BIAS>
- <RMSE>  0.348598063     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <NUM>         213 </NUM>
+ <MEAN>   2.38476116E-02 </MEAN>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>  0.244747505     </BIAS>
+ <RMSE>  0.362510145     </RMSE>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2036 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         117 </NUM>
- <MEAN>   4.59163468E-41 </MEAN>
+ <NUM>         213 </NUM>
+ <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
- <BIAS>  0.357082814     </BIAS>
- <RMSE>   9.71505865E-02 </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <BIAS>  0.267184079     </BIAS>
+ <RMSE>  0.105519675     </RMSE>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
- <MEAN_OBS>   4.52991463E-02 </MEAN_OBS>
- <STDV_OBS>  0.178678557     </STDV_OBS>
+ <MEAN_OBS>   3.42722982E-02 </MEAN_OBS>
+ <STDV_OBS>  0.146976396     </STDV_OBS>
  <EXP>
  <ID>        2038 </ID>
  <NAME>newsurf</NAME>
- <NUM>         117 </NUM>
- <MEAN>   4.19758074E-02 </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>  0.234488145     </BIAS>
- <RMSE>  0.158887208     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <NUM>         213 </NUM>
+ <MEAN>   3.38292308E-02 </MEAN>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>  0.196514279     </BIAS>
+ <RMSE>  0.129479453     </RMSE>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2038 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         117 </NUM>
- <MEAN>   4.59163468E-41 </MEAN>
+ <NUM>         213 </NUM>
+ <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
- <BIAS>  0.265632659     </BIAS>
- <RMSE>  0.106008314     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <BIAS>  0.213346049     </BIAS>
+ <RMSE>  0.146194547     </RMSE>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
- <MEAN_OBS>   4.40677963E-02 </MEAN_OBS>
- <STDV_OBS>  0.152848348     </STDV_OBS>
+ <MEAN_OBS>   2.66355127E-02 </MEAN_OBS>
+ <STDV_OBS>  0.119706772     </STDV_OBS>
  <EXP>
  <ID>        2049 </ID>
  <NAME>newsurf</NAME>
- <NUM>         118 </NUM>
- <MEAN>   4.93910462E-02 </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>  0.167189553     </BIAS>
- <RMSE>  0.219556272     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <NUM>         214 </NUM>
+ <MEAN>   3.28384787E-02 </MEAN>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>  0.129559517     </BIAS>
+ <RMSE>  0.225850329     </RMSE>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2049 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         118 </NUM>
+ <NUM>         214 </NUM>
  <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
- <BIAS>  0.196200728     </BIAS>
- <RMSE>  0.156380326     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <BIAS>  0.148982644     </BIAS>
+ <RMSE>  0.196454301     </RMSE>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
- <MEAN_OBS>   1.62393171E-02 </MEAN_OBS>
- <STDV_OBS>   9.76895839E-02 </STDV_OBS>
+ <MEAN_OBS>   8.92018806E-03 </MEAN_OBS>
+ <STDV_OBS>   7.59984255E-02 </STDV_OBS>
  <EXP>
  <ID>        2055 </ID>
  <NAME>newsurf</NAME>
- <NUM>         117 </NUM>
- <MEAN>   3.80519032E-02 </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>  0.172767818     </BIAS>
- <RMSE>  -3.35273519E-02 </RMSE>
- <CORR> -0.432414055     </CORR>
+ <NUM>         213 </NUM>
+ <MEAN>   2.44549699E-02 </MEAN>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>  0.135375395     </BIAS>
+ <RMSE>  -2.19655596E-02 </RMSE>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2055 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         117 </NUM>
+ <NUM>         213 </NUM>
  <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
- <BIAS>  0.149840221     </BIAS>
- <RMSE>  -1.59156639E-02 </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <BIAS>  0.112725027     </BIAS>
+ <RMSE>   4.04413464E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
- <MEAN_OBS>   2.39316225E-02 </MEAN_OBS>
- <STDV_OBS>  0.188601539     </STDV_OBS>
+ <MEAN_OBS>   1.40845058E-02 </MEAN_OBS>
+ <STDV_OBS>  0.157261863     </STDV_OBS>
  <EXP>
  <ID>        2064 </ID>
  <NAME>newsurf</NAME>
- <NUM>         117 </NUM>
- <MEAN>   4.54563908E-02 </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>  0.192062959     </BIAS>
- <RMSE>  0.366183400     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <NUM>         213 </NUM>
+ <MEAN>   3.38723920E-02 </MEAN>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>  0.156502485     </BIAS>
+ <RMSE>  0.346476376     </RMSE>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2064 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         117 </NUM>
+ <NUM>         213 </NUM>
  <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
- <BIAS>  0.213214338     </BIAS>
- <RMSE>   8.81279707E-02 </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <BIAS>  0.174004823     </BIAS>
+ <RMSE>   8.52430463E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
- <MEAN_OBS>   5.04273474E-02 </MEAN_OBS>
- <STDV_OBS>  0.187124148     </STDV_OBS>
+ <MEAN_OBS>   2.86384933E-02 </MEAN_OBS>
+ <STDV_OBS>  0.149380267     </STDV_OBS>
  <EXP>
  <ID>        2072 </ID>
  <NAME>newsurf</NAME>
- <NUM>         117 </NUM>
- <MEAN>   8.25479999E-02 </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>  0.275756031     </BIAS>
- <RMSE>  0.431059659     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <NUM>         213 </NUM>
+ <MEAN>   4.95385863E-02 </MEAN>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>  0.209090352     </BIAS>
+ <RMSE>  0.446485013     </RMSE>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2072 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         117 </NUM>
+ <NUM>         213 </NUM>
  <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
- <BIAS>  0.266047001     </BIAS>
- <RMSE>  0.176211491     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <BIAS>  0.202373043     </BIAS>
+ <RMSE>  0.195778772     </RMSE>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
- <MEAN_OBS>   2.79660951E-02 </MEAN_OBS>
- <STDV_OBS>  0.426041424     </STDV_OBS>
+ <MEAN_OBS>   1.77570060E-02 </MEAN_OBS>
+ <STDV_OBS>  0.321239382     </STDV_OBS>
  <EXP>
  <ID>        2081 </ID>
  <NAME>newsurf</NAME>
- <NUM>         118 </NUM>
- <MEAN>  0.120018475     </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>  0.129352003     </BIAS>
- <RMSE>  0.511022329     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <NUM>         214 </NUM>
+ <MEAN>   6.78349510E-02 </MEAN>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>  0.103474446     </BIAS>
+ <RMSE>  0.483645648     </RMSE>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2081 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         118 </NUM>
+ <NUM>         214 </NUM>
  <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
- <BIAS>  0.407475829     </BIAS>
- <RMSE>  0.278283954     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <BIAS>  0.307645589     </BIAS>
+ <RMSE>  0.280327320     </RMSE>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
- <MEAN_OBS>   7.00854734E-02 </MEAN_OBS>
- <STDV_OBS>  0.500154078     </STDV_OBS>
+ <MEAN_OBS>   3.94366197E-02 </MEAN_OBS>
+ <STDV_OBS>  0.377675116     </STDV_OBS>
  <EXP>
  <ID>        2095 </ID>
  <NAME>newsurf</NAME>
- <NUM>         117 </NUM>
- <MEAN>  0.155314118     </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>  0.443991482     </BIAS>
- <RMSE>  0.327593774     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <NUM>         213 </NUM>
+ <MEAN>   8.78948420E-02 </MEAN>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>  0.334992945     </BIAS>
+ <RMSE>  0.341908842     </RMSE>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2095 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         117 </NUM>
+ <NUM>         213 </NUM>
  <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
- <BIAS>  0.440841645     </BIAS>
- <RMSE>  0.504353166     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <BIAS>  0.329833806     </BIAS>
+ <RMSE>  0.514788270     </RMSE>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
- <MEAN_OBS>   5.76271079E-02 </MEAN_OBS>
- <STDV_OBS>  0.161259055     </STDV_OBS>
+ <MEAN_OBS>   3.50467227E-02 </MEAN_OBS>
+ <STDV_OBS>  0.133698046     </STDV_OBS>
  <EXP>
  <ID>        2110 </ID>
  <NAME>newsurf</NAME>
- <NUM>         118 </NUM>
- <MEAN>   9.98248905E-02 </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>  0.236420915     </BIAS>
- <RMSE>  0.127551258     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <NUM>         214 </NUM>
+ <MEAN>   6.78026751E-02 </MEAN>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>  0.182680592     </BIAS>
+ <RMSE>  0.162174329     </RMSE>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2110 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         118 </NUM>
+ <NUM>         214 </NUM>
  <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
- <BIAS>  0.203465328     </BIAS>
- <RMSE>   9.12427977E-02 </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <BIAS>  0.161599785     </BIAS>
+ <RMSE>  0.149354070     </RMSE>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
- <MEAN_OBS>   2.60869553E-03 </MEAN_OBS>
- <STDV_OBS>   1.97732858E-02 </STDV_OBS>
+ <MEAN_OBS>   1.89573469E-03 </MEAN_OBS>
+ <STDV_OBS>   1.61418151E-02 </STDV_OBS>
  <EXP>
  <ID>        2119 </ID>
  <NAME>newsurf</NAME>
- <NUM>         115 </NUM>
- <MEAN>   6.09714631E-03 </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>   3.05143874E-02 </BIAS>
- <RMSE>  -5.17126694E-02 </RMSE>
- <CORR> -0.432414055     </CORR>
+ <NUM>         211 </NUM>
+ <MEAN>   4.08212421E-03 </MEAN>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>   2.37696841E-02 </BIAS>
+ <RMSE>  -3.34238485E-02 </RMSE>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2119 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         115 </NUM>
+ <NUM>         211 </NUM>
  <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
- <BIAS>   2.58855522E-02 </BIAS>
- <RMSE>  -4.52746972E-02 </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <BIAS>   2.14226283E-02 </BIAS>
+ <RMSE>  -3.10229845E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
- <MEAN_OBS>  0.154385954     </MEAN_OBS>
- <STDV_OBS>  0.373889983     </STDV_OBS>
+ <MEAN_OBS>  0.122274883     </MEAN_OBS>
+ <STDV_OBS>  0.316092640     </STDV_OBS>
  <EXP>
  <ID>        2121 </ID>
  <NAME>newsurf</NAME>
- <NUM>         114 </NUM>
- <MEAN>  0.225942209     </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>  0.464894384     </BIAS>
- <RMSE>  0.557519495     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <NUM>         211 </NUM>
+ <MEAN>  0.166013286     </MEAN>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>  0.552397609     </BIAS>
+ <RMSE>  0.491840154     </RMSE>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2121 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         114 </NUM>
+ <NUM>         211 </NUM>
  <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
- <BIAS>  0.475819647     </BIAS>
- <RMSE>  0.499134421     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <BIAS>  0.545338273     </BIAS>
+ <RMSE>  0.497120023     </RMSE>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
- <MEAN_OBS>   1.63793117E-02 </MEAN_OBS>
- <STDV_OBS>   8.16570148E-02 </STDV_OBS>
+ <MEAN_OBS>   1.83962248E-02 </MEAN_OBS>
+ <STDV_OBS>  0.146921679     </STDV_OBS>
  <EXP>
  <ID>        2124 </ID>
  <NAME>newsurf</NAME>
- <NUM>         116 </NUM>
- <MEAN>   2.04745159E-02 </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>   9.32988077E-02 </BIAS>
- <RMSE>   8.84183124E-02 </RMSE>
- <CORR> -0.432414055     </CORR>
+ <NUM>         212 </NUM>
+ <MEAN>   4.07808051E-02 </MEAN>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>   8.71994346E-02 </BIAS>
+ <RMSE>  0.521649301     </RMSE>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2124 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         116 </NUM>
+ <NUM>         212 </NUM>
  <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
- <BIAS>  0.113176368     </BIAS>
- <RMSE>  0.129555270     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <BIAS>  0.134122267     </BIAS>
+ <RMSE>  0.458174586     </RMSE>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
- <MEAN_OBS>   6.77966103E-02 </MEAN_OBS>
- <STDV_OBS>  0.362402737     </STDV_OBS>
+ <MEAN_OBS>   3.78504694E-02 </MEAN_OBS>
+ <STDV_OBS>  0.273368657     </STDV_OBS>
  <EXP>
  <ID>        2126 </ID>
  <NAME>newsurf</NAME>
- <NUM>         118 </NUM>
- <MEAN>   5.47540262E-02 </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>  0.239566058     </BIAS>
- <RMSE>  0.773889244     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <NUM>         214 </NUM>
+ <MEAN>   3.89715657E-02 </MEAN>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>  0.182619274     </BIAS>
+ <RMSE>  0.768679500     </RMSE>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2126 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         118 </NUM>
+ <NUM>         214 </NUM>
  <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
- <BIAS>  0.367666841     </BIAS>
- <RMSE>  0.471958190     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <BIAS>  0.276834100     </BIAS>
+ <RMSE>  0.471144229     </RMSE>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
- <MEAN_OBS>   4.40677926E-02 </MEAN_OBS>
- <STDV_OBS>   9.32691395E-02 </STDV_OBS>
+ <MEAN_OBS>   2.61682179E-02 </MEAN_OBS>
+ <STDV_OBS>  0.101945847     </STDV_OBS>
  <EXP>
  <ID>        2135 </ID>
  <NAME>newsurf</NAME>
- <NUM>         118 </NUM>
- <MEAN>   2.02094056E-02 </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>  0.297827423     </BIAS>
- <RMSE>   8.72489363E-02 </RMSE>
- <CORR> -0.432414055     </CORR>
+ <NUM>         214 </NUM>
+ <MEAN>   2.72569470E-02 </MEAN>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>  0.245231330     </BIAS>
+ <RMSE>   7.68916458E-02 </RMSE>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2135 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         118 </NUM>
+ <NUM>         214 </NUM>
  <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
- <BIAS>  0.301272988     </BIAS>
- <RMSE>   6.52022362E-02 </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <BIAS>  0.235052332     </BIAS>
+ <RMSE>   6.75596669E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
- <MEAN_OBS>   2.49999985E-02 </MEAN_OBS>
- <STDV_OBS>   4.85211387E-02 </STDV_OBS>
+ <MEAN_OBS>   1.62037034E-02 </MEAN_OBS>
+ <STDV_OBS>   8.08491334E-02 </STDV_OBS>
  <EXP>
  <ID>        2141 </ID>
  <NAME>newsurf</NAME>
- <NUM>         120 </NUM>
- <MEAN>   1.83593240E-02 </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>  0.131382912     </BIAS>
- <RMSE>   8.68886039E-02 </RMSE>
- <CORR> -0.432414055     </CORR>
+ <NUM>         216 </NUM>
+ <MEAN>   2.62421817E-02 </MEAN>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>  0.119676135     </BIAS>
+ <RMSE>   4.55422364E-02 </RMSE>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2141 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         120 </NUM>
+ <NUM>         216 </NUM>
  <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
- <BIAS>  0.117593236     </BIAS>
- <RMSE>   9.68532041E-02 </RMSE>
- <CORR>   4.59163468E-41 </CORR>
- </EXP>
- </STATION>
- <STATION>
- <MEAN_OBS>  0.120512828     </MEAN_OBS>
- <STDV_OBS>  0.413175583     </STDV_OBS>
- <EXP>
- <ID>        2147 </ID>
- <NAME>newsurf</NAME>
- <NUM>         117 </NUM>
- <MEAN>   8.98099914E-02 </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>  0.412624717     </BIAS>
- <RMSE>  0.634043217     </RMSE>
- <CORR> -0.432414055     </CORR>
- </EXP>
- <EXP>
- <ID>        2147 </ID>
- <NAME>oldsurf</NAME>
- <NUM>         117 </NUM>
- <MEAN>   0.00000000     </MEAN>
- <STDV>   0.00000000     </STDV>
- <BIAS>  0.212231651     </BIAS>
- <RMSE>  0.930965722     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
- </EXP>
- </STATION>
- <STATION>
- <MEAN_OBS>   3.36206891E-02 </MEAN_OBS>
- <STDV_OBS>  0.165503591     </STDV_OBS>
- <EXP>
- <ID>        2149 </ID>
- <NAME>newsurf</NAME>
- <NUM>         116 </NUM>
- <MEAN>   4.13349979E-02 </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>  0.279338539     </BIAS>
- <RMSE>   8.09352696E-02 </RMSE>
- <CORR> -0.432414055     </CORR>
- </EXP>
- <EXP>
- <ID>        2149 </ID>
- <NAME>oldsurf</NAME>
- <NUM>         116 </NUM>
- <MEAN>   0.00000000     </MEAN>
- <STDV>   0.00000000     </STDV>
- <BIAS>  0.243527859     </BIAS>
- <RMSE>  0.135238335     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <BIAS>  0.116795324     </BIAS>
+ <RMSE>   2.39629522E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
  <MEAN_OBS>   6.66666701E-02 </MEAN_OBS>
- <STDV_OBS>   3.87180969E-02 </STDV_OBS>
+ <STDV_OBS>  0.309901834     </STDV_OBS>
+ <EXP>
+ <ID>        2147 </ID>
+ <NAME>newsurf</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>   5.49855754E-02 </MEAN>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>  0.318879426     </BIAS>
+ <RMSE>  0.609638810     </RMSE>
+ <CORR>  -1.65105611E-31 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2147 </ID>
+ <NAME>oldsurf</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.162252426     </BIAS>
+ <RMSE>  0.926450253     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.83962267E-02 </MEAN_OBS>
+ <STDV_OBS>  0.124512956     </STDV_OBS>
+ <EXP>
+ <ID>        2149 </ID>
+ <NAME>newsurf</NAME>
+ <NUM>         212 </NUM>
+ <MEAN>   2.67768670E-02 </MEAN>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>  0.207703665     </BIAS>
+ <RMSE>   9.35836807E-02 </RMSE>
+ <CORR>  -1.65105611E-31 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2149 </ID>
+ <NAME>oldsurf</NAME>
+ <NUM>         212 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.181015417     </BIAS>
+ <RMSE>  0.146163702     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.09302306E-02 </MEAN_OBS>
+ <STDV_OBS>   3.15313041E-02 </STDV_OBS>
  <EXP>
  <ID>        2151 </ID>
  <NAME>newsurf</NAME>
- <NUM>         120 </NUM>
- <MEAN>   1.04003400E-02 </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>  0.388863236     </BIAS>
- <RMSE>   4.91169058E-02 </RMSE>
- <CORR> -0.432414055     </CORR>
+ <NUM>         215 </NUM>
+ <MEAN>   7.49903452E-03 </MEAN>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>  0.125827014     </BIAS>
+ <RMSE>   6.31196126E-02 </RMSE>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2151 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         120 </NUM>
+ <NUM>         215 </NUM>
  <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
- <BIAS>  0.387236744     </BIAS>
- <RMSE>   6.98457509E-02 </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <BIAS>  0.116417088     </BIAS>
+ <RMSE>  -1.67679042E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
- <MEAN_OBS>   5.83333373E-02 </MEAN_OBS>
- <STDV_OBS>  0.158743411     </STDV_OBS>
+ <MEAN_OBS>   3.42592560E-02 </MEAN_OBS>
+ <STDV_OBS>  0.119175076     </STDV_OBS>
  <EXP>
  <ID>        2154 </ID>
  <NAME>newsurf</NAME>
- <NUM>         120 </NUM>
- <MEAN>   2.71156803E-02 </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>  0.237264991     </BIAS>
- <RMSE>  0.157449886     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <NUM>         216 </NUM>
+ <MEAN>   1.64929405E-02 </MEAN>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>  0.177779600     </BIAS>
+ <RMSE>  0.180896625     </RMSE>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2154 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         120 </NUM>
+ <NUM>         216 </NUM>
  <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
- <BIAS>  0.245068908     </BIAS>
- <RMSE>   4.90671247E-02 </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <BIAS>  0.184355572     </BIAS>
+ <RMSE>   6.52453303E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
- <MEAN_OBS>   6.52173907E-02 </MEAN_OBS>
- <STDV_OBS>  0.316224635     </STDV_OBS>
+ <MEAN_OBS>   3.60189565E-02 </MEAN_OBS>
+ <STDV_OBS>  0.239286065     </STDV_OBS>
  <EXP>
  <ID>        2161 </ID>
  <NAME>newsurf</NAME>
- <NUM>         115 </NUM>
- <MEAN>   4.76898327E-02 </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>  0.287161410     </BIAS>
- <RMSE>  0.406968772     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <NUM>         211 </NUM>
+ <MEAN>   3.17539908E-02 </MEAN>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>  0.216302156     </BIAS>
+ <RMSE>  0.394637614     </RMSE>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2161 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         115 </NUM>
+ <NUM>         211 </NUM>
  <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
- <BIAS>  0.437273860     </BIAS>
- <RMSE>   3.04966923E-02 </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <BIAS>  0.327318847     </BIAS>
+ <RMSE>   3.92932519E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
- <MEAN_OBS>  0.135833353     </MEAN_OBS>
- <STDV_OBS>  0.359860390     </STDV_OBS>
+ <MEAN_OBS>   7.59259313E-02 </MEAN_OBS>
+ <STDV_OBS>  0.274093121     </STDV_OBS>
  <EXP>
  <ID>        2171 </ID>
  <NAME>newsurf</NAME>
- <NUM>         120 </NUM>
- <MEAN>   8.93883407E-02 </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>  0.438044339     </BIAS>
- <RMSE>  0.689544976     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <NUM>         216 </NUM>
+ <MEAN>   5.39098717E-02 </MEAN>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>  0.347766936     </BIAS>
+ <RMSE>  0.643574476     </RMSE>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2171 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         120 </NUM>
+ <NUM>         216 </NUM>
  <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
- <BIAS>  0.318925738     </BIAS>
- <RMSE>  0.902443647     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <BIAS>  0.243247628     </BIAS>
+ <RMSE>  0.893094897     </RMSE>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
- <MEAN_OBS>  0.162393168     </MEAN_OBS>
- <STDV_OBS>  0.398331165     </STDV_OBS>
+ <MEAN_OBS>   8.92018825E-02 </MEAN_OBS>
+ <STDV_OBS>  0.298043370     </STDV_OBS>
  <EXP>
  <ID>        2173 </ID>
  <NAME>newsurf</NAME>
- <NUM>         117 </NUM>
- <MEAN>   8.96943137E-02 </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>  0.598095238     </BIAS>
- <RMSE>  0.549280763     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <NUM>         213 </NUM>
+ <MEAN>   5.04882634E-02 </MEAN>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>  0.444847018     </BIAS>
+ <RMSE>  0.558333099     </RMSE>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2173 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         117 </NUM>
+ <NUM>         213 </NUM>
  <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
- <BIAS>  0.463481694     </BIAS>
- <RMSE>  0.797123671     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <BIAS>  0.345736355     </BIAS>
+ <RMSE>  0.800994039     </RMSE>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
- <MEAN_OBS>   3.67521420E-02 </MEAN_OBS>
- <STDV_OBS>  0.228626564     </STDV_OBS>
+ <MEAN_OBS>   2.06572786E-02 </MEAN_OBS>
+ <STDV_OBS>  0.171295762     </STDV_OBS>
  <EXP>
  <ID>        2174 </ID>
  <NAME>newsurf</NAME>
- <NUM>         117 </NUM>
- <MEAN>   5.13328351E-02 </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>  0.202654362     </BIAS>
- <RMSE>  0.368473351     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <NUM>         213 </NUM>
+ <MEAN>   2.92973481E-02 </MEAN>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>  0.165670827     </BIAS>
+ <RMSE>  0.349804640     </RMSE>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2174 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         117 </NUM>
+ <NUM>         213 </NUM>
  <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
- <BIAS>  0.264057010     </BIAS>
- <RMSE>   6.04385436E-02 </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <BIAS>  0.196311921     </BIAS>
+ <RMSE>   8.14143345E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
- <MEAN_OBS>  0.103448287     </MEAN_OBS>
- <STDV_OBS>  0.667391419     </STDV_OBS>
+ <MEAN_OBS>   5.76190576E-02 </MEAN_OBS>
+ <STDV_OBS>  0.513640165     </STDV_OBS>
  <EXP>
  <ID>        2176 </ID>
  <NAME>newsurf</NAME>
- <NUM>         116 </NUM>
- <MEAN>  0.153118432     </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>  0.373627573     </BIAS>
- <RMSE>  0.798093259     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <NUM>         210 </NUM>
+ <MEAN>   9.50705707E-02 </MEAN>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>  0.286800086     </BIAS>
+ <RMSE>  0.792503178     </RMSE>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2176 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         116 </NUM>
+ <NUM>         210 </NUM>
  <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
- <BIAS>  0.262316763     </BIAS>
- <RMSE>  0.933847725     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <BIAS>  0.229693279     </BIAS>
+ <RMSE>  0.908602715     </RMSE>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
- <MEAN_OBS>   9.39655229E-02 </MEAN_OBS>
- <STDV_OBS>  0.355597913     </STDV_OBS>
+ <MEAN_OBS>   5.51886894E-02 </MEAN_OBS>
+ <STDV_OBS>  0.267340422     </STDV_OBS>
  <EXP>
  <ID>        2181 </ID>
  <NAME>newsurf</NAME>
- <NUM>         116 </NUM>
- <MEAN>  0.101512037     </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>  0.493435502     </BIAS>
- <RMSE>  0.469267547     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <NUM>         212 </NUM>
+ <MEAN>   5.56686707E-02 </MEAN>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>  0.369514853     </BIAS>
+ <RMSE>  0.479020536     </RMSE>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2181 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         116 </NUM>
+ <NUM>         212 </NUM>
  <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
- <BIAS>  0.182240367     </BIAS>
- <RMSE>  0.872337580     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <BIAS>  0.137002468     </BIAS>
+ <RMSE>  0.872473300     </RMSE>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
- <MEAN_OBS>  0.106837623     </MEAN_OBS>
- <STDV_OBS>  0.532424867     </STDV_OBS>
+ <MEAN_OBS>   6.00939058E-02 </MEAN_OBS>
+ <STDV_OBS>  0.397988617     </STDV_OBS>
  <EXP>
  <ID>        2184 </ID>
  <NAME>newsurf</NAME>
- <NUM>         117 </NUM>
- <MEAN>  0.115502149     </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>  0.382606089     </BIAS>
- <RMSE>  0.233658239     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <NUM>         213 </NUM>
+ <MEAN>   6.37335703E-02 </MEAN>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>  0.290500551     </BIAS>
+ <RMSE>  0.252198070     </RMSE>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2184 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         117 </NUM>
+ <NUM>         213 </NUM>
  <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
- <BIAS>  0.457951009     </BIAS>
- <RMSE>  0.522524238     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <BIAS>  0.339624494     </BIAS>
+ <RMSE>  0.534805477     </RMSE>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
- <MEAN_OBS>  0.145833343     </MEAN_OBS>
- <STDV_OBS>  0.377862096     </STDV_OBS>
+ <MEAN_OBS>   8.28703791E-02 </MEAN_OBS>
+ <STDV_OBS>  0.290090770     </STDV_OBS>
  <EXP>
  <ID>        2186 </ID>
  <NAME>newsurf</NAME>
- <NUM>         120 </NUM>
- <MEAN>   9.18296352E-02 </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>  0.396203101     </BIAS>
- <RMSE>  0.821117580     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <NUM>         216 </NUM>
+ <MEAN>   5.81374615E-02 </MEAN>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>  0.329307914     </BIAS>
+ <RMSE>  0.729604483     </RMSE>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2186 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         120 </NUM>
+ <NUM>         216 </NUM>
  <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
- <BIAS>  0.407726109     </BIAS>
- <RMSE>  0.788957119     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <BIAS>  0.312004328     </BIAS>
+ <RMSE>  0.774872124     </RMSE>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
- <MEAN_OBS>  0.130508468     </MEAN_OBS>
- <STDV_OBS>  0.598875463     </STDV_OBS>
+ <MEAN_OBS>   8.55555534E-02 </MEAN_OBS>
+ <STDV_OBS>  0.494810849     </STDV_OBS>
  <EXP>
  <ID>        2188 </ID>
  <NAME>newsurf</NAME>
- <NUM>         118 </NUM>
- <MEAN>  0.132167295     </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>  0.499212027     </BIAS>
- <RMSE>  0.674657226     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <NUM>         180 </NUM>
+ <MEAN>   9.65006351E-02 </MEAN>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>  0.423449576     </BIAS>
+ <RMSE>  0.649851143     </RMSE>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2188 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         118 </NUM>
+ <NUM>         180 </NUM>
  <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
- <BIAS>  0.447540611     </BIAS>
- <RMSE>  0.756901979     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <BIAS>  0.373362869     </BIAS>
+ <RMSE>  0.747163355     </RMSE>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
- <MEAN_OBS>  0.104273513     </MEAN_OBS>
- <STDV_OBS>  0.529138982     </STDV_OBS>
+ <MEAN_OBS>   5.91549352E-02 </MEAN_OBS>
+ <STDV_OBS>  0.417387515     </STDV_OBS>
  <EXP>
  <ID>        2191 </ID>
  <NAME>newsurf</NAME>
- <NUM>         117 </NUM>
- <MEAN>  0.139588788     </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>  0.529071629     </BIAS>
- <RMSE>  0.553480625     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <NUM>         213 </NUM>
+ <MEAN>   9.29284766E-02 </MEAN>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>  0.479012698     </BIAS>
+ <RMSE>  0.443142682     </RMSE>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2191 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         117 </NUM>
+ <NUM>         213 </NUM>
  <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
- <BIAS>  0.528242826     </BIAS>
- <RMSE>  0.578718305     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <BIAS>  0.414665163     </BIAS>
+ <RMSE>  0.552237689     </RMSE>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
- <MEAN_OBS>  0.148275897     </MEAN_OBS>
- <STDV_OBS>  0.683501244     </STDV_OBS>
+ <MEAN_OBS>   8.15166160E-02 </MEAN_OBS>
+ <STDV_OBS>  0.511880279     </STDV_OBS>
  <EXP>
  <ID>        2197 </ID>
  <NAME>newsurf</NAME>
- <NUM>         116 </NUM>
- <MEAN>  0.151400521     </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>  0.468531609     </BIAS>
- <RMSE>  0.683417976     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <NUM>         211 </NUM>
+ <MEAN>   8.57242420E-02 </MEAN>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>  0.410917193     </BIAS>
+ <RMSE>  0.606277704     </RMSE>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2197 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         116 </NUM>
+ <NUM>         211 </NUM>
  <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
- <BIAS>  0.516447783     </BIAS>
- <RMSE>  0.687881589     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <BIAS>  0.384090096     </BIAS>
+ <RMSE>  0.693650603     </RMSE>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
- <MEAN_OBS>  0.181196600     </MEAN_OBS>
- <STDV_OBS>  0.357976168     </STDV_OBS>
+ <MEAN_OBS>   8.25471804E-02 </MEAN_OBS>
+ <STDV_OBS>  0.273155391     </STDV_OBS>
  <EXP>
  <ID>        2199 </ID>
  <NAME>newsurf</NAME>
- <NUM>         117 </NUM>
- <MEAN>  0.130259320     </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>  0.558434129     </BIAS>
- <RMSE>  0.443345219     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <NUM>         212 </NUM>
+ <MEAN>   7.23351613E-02 </MEAN>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>  0.320633680     </BIAS>
+ <RMSE>  0.584449589     </RMSE>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2199 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         117 </NUM>
+ <NUM>         212 </NUM>
  <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
- <BIAS>  0.539386392     </BIAS>
- <RMSE>  0.426393002     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <BIAS>  0.294395119     </BIAS>
+ <RMSE>  0.583038449     </RMSE>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
- <MEAN_OBS>   5.43103293E-02 </MEAN_OBS>
- <STDV_OBS>  0.614220023     </STDV_OBS>
+ <MEAN_OBS>   3.06603685E-02 </MEAN_OBS>
+ <STDV_OBS>  0.478900045     </STDV_OBS>
  <EXP>
  <ID>        2207 </ID>
  <NAME>newsurf</NAME>
- <NUM>         116 </NUM>
- <MEAN>  0.327065140     </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>   1.07218385     </BIAS>
- <RMSE>  0.218638495     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <NUM>         212 </NUM>
+ <MEAN>  0.197616592     </MEAN>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>  0.809643149     </BIAS>
+ <RMSE>  0.255268633     </RMSE>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2207 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         116 </NUM>
+ <NUM>         212 </NUM>
  <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
- <BIAS>  0.581063271     </BIAS>
- <RMSE>  0.315849483     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <BIAS>  0.448463678     </BIAS>
+ <RMSE>  0.359303862     </RMSE>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
- <MEAN_OBS>  0.220689654     </MEAN_OBS>
- <STDV_OBS>  0.526895046     </STDV_OBS>
+ <MEAN_OBS>  0.133962288     </MEAN_OBS>
+ <STDV_OBS>  0.405623317     </STDV_OBS>
  <EXP>
  <ID>        2221 </ID>
  <NAME>newsurf</NAME>
- <NUM>         116 </NUM>
- <MEAN>  0.237709105     </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>  0.748746395     </BIAS>
- <RMSE>  0.161678195     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <NUM>         212 </NUM>
+ <MEAN>  0.144255430     </MEAN>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>  0.556919098     </BIAS>
+ <RMSE>  0.210625052     </RMSE>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2221 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         116 </NUM>
+ <NUM>         212 </NUM>
  <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
- <BIAS>  0.532284200     </BIAS>
- <RMSE>  0.458801031     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <BIAS>  0.398583770     </BIAS>
+ <RMSE>  0.494966000     </RMSE>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
- <MEAN_OBS>  0.130172402     </MEAN_OBS>
- <STDV_OBS>  0.529471636     </STDV_OBS>
+ <MEAN_OBS>   7.12264106E-02 </MEAN_OBS>
+ <STDV_OBS>  0.394933283     </STDV_OBS>
  <EXP>
  <ID>        2230 </ID>
  <NAME>newsurf</NAME>
- <NUM>         116 </NUM>
- <MEAN>  0.115705177     </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>  0.851915956     </BIAS>
- <RMSE>  0.723954976     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <NUM>         212 </NUM>
+ <MEAN>   6.48166835E-02 </MEAN>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>  0.632680118     </BIAS>
+ <RMSE>  0.729562342     </RMSE>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2230 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         116 </NUM>
+ <NUM>         212 </NUM>
  <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
- <BIAS>  0.460678190     </BIAS>
- <RMSE>  0.656742156     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <BIAS>  0.340935946     </BIAS>
+ <RMSE>  0.663936853     </RMSE>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
- <MEAN_OBS>   3.53448279E-02 </MEAN_OBS>
- <STDV_OBS>  0.864131212     </STDV_OBS>
+ <MEAN_OBS>   1.93396229E-02 </MEAN_OBS>
+ <STDV_OBS>  0.646266997     </STDV_OBS>
  <EXP>
  <ID>        2231 </ID>
  <NAME>newsurf</NAME>
- <NUM>         116 </NUM>
- <MEAN>  0.144026116     </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>  0.360270321     </BIAS>
- <RMSE>  -2.55317800E-03 </RMSE>
- <CORR> -0.432414055     </CORR>
+ <NUM>         212 </NUM>
+ <MEAN>   8.52050707E-02 </MEAN>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>  0.266599804     </BIAS>
+ <RMSE>   9.13696270E-03 </RMSE>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2231 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         116 </NUM>
+ <NUM>         212 </NUM>
  <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
- <BIAS>  0.887233794     </BIAS>
- <RMSE>   7.78683946E-02 </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <BIAS>  0.662862420     </BIAS>
+ <RMSE>   8.47108737E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
- <MEAN_OBS>   7.15517253E-02 </MEAN_OBS>
- <STDV_OBS>  0.799581468     </STDV_OBS>
+ <MEAN_OBS>   3.91509458E-02 </MEAN_OBS>
+ <STDV_OBS>  0.595464110     </STDV_OBS>
  <EXP>
  <ID>        2236 </ID>
  <NAME>newsurf</NAME>
- <NUM>         116 </NUM>
- <MEAN>  0.158303708     </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>  0.915912330     </BIAS>
- <RMSE>  -3.09960358E-02 </RMSE>
- <CORR> -0.432414055     </CORR>
+ <NUM>         212 </NUM>
+ <MEAN>   8.73099715E-02 </MEAN>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>  0.678655565     </BIAS>
+ <RMSE>  -1.34011917E-02 </RMSE>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2236 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         116 </NUM>
+ <NUM>         212 </NUM>
  <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
- <BIAS>  0.779341936     </BIAS>
- <RMSE>  0.259341300     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <BIAS>  0.578052282     </BIAS>
+ <RMSE>  0.273216665     </RMSE>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
- <MEAN_OBS>   9.40170959E-02 </MEAN_OBS>
- <STDV_OBS>  0.727255285     </STDV_OBS>
+ <MEAN_OBS>   5.16431928E-02 </MEAN_OBS>
+ <STDV_OBS>  0.543409824     </STDV_OBS>
  <EXP>
  <ID>        2242 </ID>
  <NAME>newsurf</NAME>
- <NUM>         117 </NUM>
- <MEAN>  0.154597521     </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>  0.595752060     </BIAS>
- <RMSE>  0.277395546     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <NUM>         213 </NUM>
+ <MEAN>   8.52177739E-02 </MEAN>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>  0.441543162     </BIAS>
+ <RMSE>  0.288918555     </RMSE>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2242 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         117 </NUM>
+ <NUM>         213 </NUM>
  <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
- <BIAS>  0.548780680     </BIAS>
- <RMSE>  0.655453563     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <BIAS>  0.407819420     </BIAS>
+ <RMSE>  0.661171973     </RMSE>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
- <MEAN_OBS>   9.99999940E-02 </MEAN_OBS>
- <STDV_OBS>  0.370568871     </STDV_OBS>
+ <MEAN_OBS>   3.60576920E-02 </MEAN_OBS>
+ <STDV_OBS>  0.212599665     </STDV_OBS>
  <EXP>
  <ID>        2245 </ID>
  <NAME>newsurf</NAME>
- <NUM>         115 </NUM>
- <MEAN>   7.62390494E-02 </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>  0.509577990     </BIAS>
- <RMSE>  0.638996243     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <NUM>         208 </NUM>
+ <MEAN>   3.21600400E-02 </MEAN>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>  0.379730016     </BIAS>
+ <RMSE>  0.430843472     </RMSE>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2245 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         115 </NUM>
+ <NUM>         208 </NUM>
  <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
- <BIAS>  0.412460089     </BIAS>
- <RMSE>  0.573145509     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <BIAS>  0.292118728     </BIAS>
+ <RMSE>  0.198292971     </RMSE>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
- <MEAN_OBS>   1.81405435E-09 </MEAN_OBS>
- <STDV_OBS>  0.197542757     </STDV_OBS>
+ <MEAN_OBS>   1.49038471E-02 </MEAN_OBS>
+ <STDV_OBS>  0.147903398     </STDV_OBS>
  <EXP>
  <ID>        2247 </ID>
  <NAME>newsurf</NAME>
- <NUM>         115 </NUM>
- <MEAN>   3.97231430E-02 </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>  0.102349743     </BIAS>
- <RMSE>  0.216977641     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <NUM>         208 </NUM>
+ <MEAN>   2.22347323E-02 </MEAN>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>  0.222064048     </BIAS>
+ <RMSE>   1.66399553E-02 </RMSE>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2247 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         115 </NUM>
+ <NUM>         208 </NUM>
  <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
- <BIAS>  0.191718027     </BIAS>
- <RMSE>  0.229173690     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <BIAS>  0.253860801     </BIAS>
+ <RMSE>   1.77074485E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
- <MEAN_OBS>  0.165517241     </MEAN_OBS>
- <STDV_OBS>   1.06917441     </STDV_OBS>
+ <MEAN_OBS>   9.10377428E-02 </MEAN_OBS>
+ <STDV_OBS>  0.797866642     </STDV_OBS>
  <EXP>
  <ID>        2254 </ID>
  <NAME>newsurf</NAME>
- <NUM>         116 </NUM>
- <MEAN>  0.233919039     </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>  0.776757419     </BIAS>
- <RMSE>  0.628514767     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <NUM>         212 </NUM>
+ <MEAN>  0.128256008     </MEAN>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>  0.575138509     </BIAS>
+ <RMSE>  0.635253966     </RMSE>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2254 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         116 </NUM>
+ <NUM>         212 </NUM>
  <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
- <BIAS>  0.680865586     </BIAS>
- <RMSE>  0.771766603     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <BIAS>  0.504856110     </BIAS>
+ <RMSE>  0.775604486     </RMSE>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
- <MEAN_OBS>   8.47457629E-03 </MEAN_OBS>
- <STDV_OBS>   9.02533717E-03 </STDV_OBS>
+ <MEAN_OBS>   5.60747646E-03 </MEAN_OBS>
+ <STDV_OBS>   6.72488380E-03 </STDV_OBS>
  <EXP>
  <ID>        2260 </ID>
  <NAME>newsurf</NAME>
- <NUM>         118 </NUM>
- <MEAN>   1.39009603E-03 </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>   6.54725730E-02 </BIAS>
- <RMSE>  0.825896144     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <NUM>         214 </NUM>
+ <MEAN>   7.66501529E-04 </MEAN>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>   5.05342670E-02 </BIAS>
+ <RMSE>  0.801220477     </RMSE>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2260 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         118 </NUM>
+ <NUM>         214 </NUM>
  <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
- <BIAS>   7.14282915E-02 </BIAS>
- <RMSE>  0.374494940     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <BIAS>   5.48124835E-02 </BIAS>
+ <RMSE>  0.366866946     </RMSE>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
- <MEAN_OBS>  0.183050856     </MEAN_OBS>
- <STDV_OBS>  0.806572318     </STDV_OBS>
+ <MEAN_OBS>  0.101408452     </MEAN_OBS>
+ <STDV_OBS>  0.606313229     </STDV_OBS>
  <EXP>
  <ID>        2261 </ID>
  <NAME>newsurf</NAME>
- <NUM>         118 </NUM>
- <MEAN>  0.186903492     </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>  0.724392951     </BIAS>
- <RMSE>  0.586298585     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <NUM>         213 </NUM>
+ <MEAN>  0.104496412     </MEAN>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>  0.539335430     </BIAS>
+ <RMSE>  0.594704747     </RMSE>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2261 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         118 </NUM>
+ <NUM>         213 </NUM>
  <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
- <BIAS>  0.472860396     </BIAS>
- <RMSE>  0.837805033     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <BIAS>  0.352103472     </BIAS>
+ <RMSE>  0.841152132     </RMSE>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
- <MEAN_OBS>   8.96551758E-02 </MEAN_OBS>
- <STDV_OBS>   1.77039421     </STDV_OBS>
+ <MEAN_OBS>   4.90566082E-02 </MEAN_OBS>
+ <STDV_OBS>   1.31628203     </STDV_OBS>
  <EXP>
  <ID>        2263 </ID>
  <NAME>newsurf</NAME>
- <NUM>         116 </NUM>
- <MEAN>  0.312889159     </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>  0.903485596     </BIAS>
- <RMSE>  0.478849500     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <NUM>         212 </NUM>
+ <MEAN>  0.171318665     </MEAN>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>  0.670962870     </BIAS>
+ <RMSE>  0.488315344     </RMSE>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2263 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         116 </NUM>
+ <NUM>         212 </NUM>
  <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
- <BIAS>   1.39258814     </BIAS>
- <RMSE>  0.868341267     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <BIAS>   1.03607309     </BIAS>
+ <RMSE>  0.870325625     </RMSE>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
- <MEAN_OBS>  0.108474575     </MEAN_OBS>
- <STDV_OBS>  0.316609591     </STDV_OBS>
+ <MEAN_OBS>   6.41509444E-02 </MEAN_OBS>
+ <STDV_OBS>  0.237982363     </STDV_OBS>
  <EXP>
  <ID>        2265 </ID>
  <NAME>newsurf</NAME>
- <NUM>         118 </NUM>
- <MEAN>   6.51155189E-02 </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>  0.335711837     </BIAS>
- <RMSE>  0.886872470     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <NUM>         212 </NUM>
+ <MEAN>   3.62435468E-02 </MEAN>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>  0.257510126     </BIAS>
+ <RMSE>  0.881162405     </RMSE>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2265 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         118 </NUM>
+ <NUM>         212 </NUM>
  <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
- <BIAS>  0.483411908     </BIAS>
- <RMSE>  0.523533821     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <BIAS>  0.365181565     </BIAS>
+ <RMSE>  0.526682377     </RMSE>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
- <MEAN_OBS>  0.137288168     </MEAN_OBS>
- <STDV_OBS>  0.420006722     </STDV_OBS>
+ <MEAN_OBS>   7.71028250E-02 </MEAN_OBS>
+ <STDV_OBS>  0.328137308     </STDV_OBS>
  <EXP>
  <ID>        2219 </ID>
  <NAME>newsurf</NAME>
- <NUM>         118 </NUM>
- <MEAN>  0.213635519     </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>  0.384167910     </BIAS>
- <RMSE>  0.560082018     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <NUM>         214 </NUM>
+ <MEAN>  0.129613429     </MEAN>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>  0.291583419     </BIAS>
+ <RMSE>  0.591043293     </RMSE>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2219 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         118 </NUM>
+ <NUM>         214 </NUM>
  <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
- <BIAS>  0.420887291     </BIAS>
- <RMSE>  0.413459033     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <BIAS>  0.316704571     </BIAS>
+ <RMSE>  0.451440781     </RMSE>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
- <MEAN_OBS>   6.84210584E-02 </MEAN_OBS>
- <STDV_OBS>  0.844273925     </STDV_OBS>
+ <MEAN_OBS>   3.71428579E-02 </MEAN_OBS>
+ <STDV_OBS>  0.626668155     </STDV_OBS>
  <EXP>
  <ID>        2243 </ID>
  <NAME>newsurf</NAME>
- <NUM>         114 </NUM>
- <MEAN>  0.169852525     </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>  0.831802428     </BIAS>
- <RMSE>   1.87196042E-02 </RMSE>
- <CORR> -0.432414055     </CORR>
+ <NUM>         210 </NUM>
+ <MEAN>   9.37170088E-02 </MEAN>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>  0.612964272     </BIAS>
+ <RMSE>   2.70863418E-02 </RMSE>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2243 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         114 </NUM>
+ <NUM>         210 </NUM>
  <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
- <BIAS>  0.524391353     </BIAS>
- <RMSE>  0.820424199     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <BIAS>  0.389966249     </BIAS>
+ <RMSE>  0.821722090     </RMSE>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
  <MEAN_OBS>   0.00000000     </MEAN_OBS>
- <STDV_OBS>   8.15170875E-04 </STDV_OBS>
+ <STDV_OBS>   6.14858989E-04 </STDV_OBS>
  <EXP>
  <ID>        2488 </ID>
  <NAME>newsurf</NAME>
- <NUM>         114 </NUM>
- <MEAN>   1.02795595E-04 </MEAN>
- <STDV>   1.73709203E+18 </STDV>
- <BIAS>   7.48199702E-04 </BIAS>
+ <NUM>         201 </NUM>
+ <MEAN>   5.83019792E-05 </MEAN>
+ <STDV>  -1.65206421E-31 </STDV>
+ <BIAS>   5.65050403E-04 </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2488 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         114 </NUM>
+ <NUM>         201 </NUM>
  <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
- <BIAS>   8.11587728E-04 </BIAS>
+ <BIAS>   6.13327546E-04 </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
  <STATION>
@@ -3395,22 +3395,22 @@
  <EXP>
  <ID>        2554 </ID>
  <NAME>newsurf</NAME>
- <NUM>         114 </NUM>
+ <NUM>         210 </NUM>
  <MEAN>   0.00000000     </MEAN>
- <STDV>   1.73709203E+18 </STDV>
+ <STDV>  -1.65206421E-31 </STDV>
  <BIAS>   0.00000000     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR> -0.432414055     </CORR>
+ <CORR>  -1.65105611E-31 </CORR>
  </EXP>
  <EXP>
  <ID>        2554 </ID>
  <NAME>oldsurf</NAME>
- <NUM>         114 </NUM>
+ <NUM>         210 </NUM>
  <MEAN>   0.00000000     </MEAN>
  <STDV>   0.00000000     </STDV>
  <BIAS>   0.00000000     </BIAS>
  <RMSE>   0.00000000     </RMSE>
- <CORR>   4.59163468E-41 </CORR>
+ <CORR>   0.00000000     </CORR>
  </EXP>
  </STATION>
 </STAT>
